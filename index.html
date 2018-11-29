@@ -13,23 +13,32 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>Domowa</title>
+  <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4223016628" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-wzorcowa.css?crc=4136000580"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=494654302" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="u121-4"><!-- content -->
-    <p>TEST</p>
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="browser_width colelem" id="u152-bw">
+     <div id="u152"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix colelem" id="pu94"><!-- group -->
+     <div class="grpelem" id="u94"><!-- simple frame --></div>
+     <div class="grpelem" id="u107"><!-- simple frame --></div>
+     <div class="grpelem" id="u118"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="u121-4"><!-- content -->
+      <p>TEST</p>
+     </div>
+    </div>
+    <div class="browser_width colelem" id="u196-bw">
+     <div id="u196"><!-- simple frame --></div>
+    </div>
+    <div class="verticalspacer" data-offset-top="411" data-content-above-spacer="700" data-content-below-spacer="0"></div>
    </div>
-   <div class="clearfix grpelem" id="pu94"><!-- group -->
-    <div class="grpelem" id="u94"><!-- simple frame --></div>
-    <div class="grpelem" id="u107"><!-- simple frame --></div>
-    <div class="grpelem" id="u118"><!-- simple frame --></div>
-   </div>
-   <div class="verticalspacer" data-offset-top="376" data-content-above-spacer="422" data-content-below-spacer="124"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -46,6 +55,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
