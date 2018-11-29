@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543527436590">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543527612050">
   <folder name="images">
-    <file name="celidarkpanoramarev.jpg" crc="523058914" ref="index">
+    <file name="celidarkpanoramarev.jpg" crc="4053919207" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="215351279" ref="index"/>
+    <file name="index.css" crc="4184340663" ref="index"/>
     <file name="master_a-wzorcowa.css" crc="524379185" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -20,5 +20,5 @@
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
-  <file name="index.html" crc="340742680" seo="true" mt="1543527430572" redirect="true"/>
+  <file name="index.html" crc="3942722971" seo="true" mt="1543527604909" redirect="true"/>
 </manifest>
