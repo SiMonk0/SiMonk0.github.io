@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543602268988">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543604779071">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:about">
       <caption webpage="index" alt=""/>
@@ -48,7 +48,7 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="205920585" ref="index"/>
     <file name="master_a-wzorcowa.css" crc="3777140562" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="359574192" ref="contact"/>
+    <file name="contact.css" crc="4239550902" ref="contact"/>
     <file name="portfolio.css" crc="4168062810" ref="portfolio"/>
     <file name="about.css" crc="3960862433" ref="about"/>
   </folder>
@@ -74,5 +74,5 @@
   <file name="index.html" crc="3944105117" seo="true" mt="1543594050865" redirect="true"/>
   <file name="portfolio.html" crc="534329179" seo="true" mt="1543594050865" redirect="true"/>
   <file name="about.html" crc="4166405467" seo="true" mt="1543594050865" redirect="true"/>
-  <file name="contact.html" crc="3847526478" seo="true" mt="1543602265665" redirect="true"/>
+  <file name="contact.html" crc="475386488" seo="true" mt="1543604773353" redirect="true"/>
 </manifest>
