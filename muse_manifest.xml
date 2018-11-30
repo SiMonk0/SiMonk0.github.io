@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543589878737">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543594058571">
   <folder name="images">
-    <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:portfolio:about">
+    <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:about">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="about" alt=""/>
@@ -46,11 +46,11 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="328264914" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="493053178" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="342825648" ref="contact"/>
-    <file name="portfolio.css" crc="516456320" ref="portfolio"/>
-    <file name="about.css" crc="171425659" ref="about"/>
+    <file name="index.css" crc="205920585" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="3777140562" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="371405439" ref="contact"/>
+    <file name="portfolio.css" crc="4168062810" ref="portfolio"/>
+    <file name="about.css" crc="3960862433" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -61,7 +61,7 @@
     <file name="require.js" crc="7928878" ref="index:portfolio:about:contact"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
     <file name="webpro.js" crc="4059564322" ref="portfolio:contact"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
@@ -71,8 +71,8 @@
     <file name="form_process.php" crc="37464564" ref="contact"/>
     <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3871337941" seo="true" mt="1543589199734" redirect="true"/>
-  <file name="portfolio.html" crc="3798156372" seo="true" mt="1543589871171" redirect="true"/>
-  <file name="about.html" crc="3464558" seo="true" mt="1543589199734" redirect="true"/>
-  <file name="contact.html" crc="4199375182" seo="true" mt="1543589199734" redirect="true"/>
+  <file name="index.html" crc="3944105117" seo="true" mt="1543594050865" redirect="true"/>
+  <file name="portfolio.html" crc="534329179" seo="true" mt="1543594050865" redirect="true"/>
+  <file name="about.html" crc="4166405467" seo="true" mt="1543594050865" redirect="true"/>
+  <file name="contact.html" crc="3936642964" seo="true" mt="1543594050865" redirect="true"/>
 </manifest>
