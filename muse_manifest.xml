@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543587940696">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543588794446">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:portfolio:about">
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="road.jpg" crc="3870041364" seo="true" ref="portfolio">
+    <file name="road.jpg" crc="4254751648" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="portfolio"/>
-    <file name="cactus.jpg" crc="3936421572" seo="true" ref="portfolio">
+    <file name="blank.gif" crc="4208392903" ref="portfolio:contact"/>
+    <file name="cactus.jpg" crc="428283642" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="trees.jpg" crc="48470008" seo="true" ref="portfolio">
+    <file name="trees.jpg" crc="3793520397" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="road173x130.jpg" crc="3909419506" seo="true" ref="portfolio">
@@ -28,11 +28,11 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3903230233" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="3887108731" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="3818344507" ref="contact"/>
-    <file name="portfolio.css" crc="448580478" ref="portfolio"/>
-    <file name="about.css" crc="209329432" ref="about"/>
+    <file name="index.css" crc="185233297" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="4109176449" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="370919254" ref="contact"/>
+    <file name="portfolio.css" crc="384310471" ref="portfolio"/>
+    <file name="about.css" crc="3871339875" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -53,8 +53,8 @@
     <file name="form_process.php" crc="37464564" ref="contact"/>
     <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
-  <file name="index.html" crc="88426709" seo="true" mt="1543587936904" redirect="true"/>
-  <file name="portfolio.html" crc="4094413311" seo="true" mt="1543587936902" redirect="true"/>
-  <file name="about.html" crc="226169035" seo="true" mt="1543587936903" redirect="true"/>
-  <file name="contact.html" crc="4050547617" seo="true" mt="1543587931314" redirect="true"/>
+  <file name="index.html" crc="3931706462" seo="true" mt="1543588683030" redirect="true"/>
+  <file name="portfolio.html" crc="431742486" seo="true" mt="1543588683030" redirect="true"/>
+  <file name="about.html" crc="53761836" seo="true" mt="1543588683030" redirect="true"/>
+  <file name="contact.html" crc="4203344252" seo="true" mt="1543588790025" redirect="true"/>
 </manifest>
