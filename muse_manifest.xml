@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543602179529">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543602268988">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:about">
       <caption webpage="index" alt=""/>
@@ -74,5 +74,5 @@
   <file name="index.html" crc="3944105117" seo="true" mt="1543594050865" redirect="true"/>
   <file name="portfolio.html" crc="534329179" seo="true" mt="1543594050865" redirect="true"/>
   <file name="about.html" crc="4166405467" seo="true" mt="1543594050865" redirect="true"/>
-  <file name="contact.html" crc="422672712" seo="true" mt="1543602165488" redirect="true"/>
+  <file name="contact.html" crc="3847526478" seo="true" mt="1543602265665" redirect="true"/>
 </manifest>
