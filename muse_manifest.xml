@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543604779071">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543606364908">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:about">
       <caption webpage="index" alt=""/>
@@ -48,7 +48,7 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="205920585" ref="index"/>
     <file name="master_a-wzorcowa.css" crc="3777140562" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="4239550902" ref="contact"/>
+    <file name="contact.css" crc="3842501977" ref="contact"/>
     <file name="portfolio.css" crc="4168062810" ref="portfolio"/>
     <file name="about.css" crc="3960862433" ref="about"/>
   </folder>
@@ -62,17 +62,13 @@
     <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
-    <file name="webpro.js" crc="4059564322" ref="portfolio:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
     <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
-    <file name="form_check.php" crc="4020933626" ref="contact"/>
-    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
-    <file name="form_process.php" crc="37464564" ref="contact"/>
-    <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
   <file name="index.html" crc="3944105117" seo="true" mt="1543594050865" redirect="true"/>
   <file name="portfolio.html" crc="534329179" seo="true" mt="1543594050865" redirect="true"/>
   <file name="about.html" crc="4166405467" seo="true" mt="1543594050865" redirect="true"/>
-  <file name="contact.html" crc="475386488" seo="true" mt="1543604773353" redirect="true"/>
+  <file name="contact.html" crc="73771904" seo="true" mt="1543606357631" redirect="true"/>
 </manifest>
