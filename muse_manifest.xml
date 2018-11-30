@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543588998821">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543589599080">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:portfolio:about">
       <caption webpage="index" alt=""/>
@@ -7,32 +7,50 @@
     </file>
     <file name="road.jpg" crc="4254751648" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="portfolio:contact:index"/>
     <file name="cactus.jpg" crc="428283642" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="trees.jpg" crc="3793520397" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="road173x130.jpg" crc="3909419506" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="cactus173x130.jpg" crc="443570246" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="trees173x130.jpg" crc="390341762" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="185233297" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="234920451" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="370919254" ref="contact"/>
-    <file name="portfolio.css" crc="384310471" ref="portfolio"/>
-    <file name="about.css" crc="3871339875" ref="about"/>
+    <file name="index.css" crc="328264914" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="493053178" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="342825648" ref="contact"/>
+    <file name="portfolio.css" crc="4184854425" ref="portfolio"/>
+    <file name="about.css" crc="171425659" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -53,8 +71,8 @@
     <file name="form_process.php" crc="37464564" ref="contact"/>
     <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
-  <file name="index.html" crc="99963332" seo="true" mt="1543588992274" redirect="true"/>
-  <file name="portfolio.html" crc="3889992059" seo="true" mt="1543588992274" redirect="true"/>
-  <file name="about.html" crc="44009002" seo="true" mt="1543588992274" redirect="true"/>
-  <file name="contact.html" crc="4027445553" seo="true" mt="1543588992274" redirect="true"/>
+  <file name="index.html" crc="3871337941" seo="true" mt="1543589199734" redirect="true"/>
+  <file name="portfolio.html" crc="4123781676" seo="true" mt="1543589589645" redirect="true"/>
+  <file name="about.html" crc="3464558" seo="true" mt="1543589199734" redirect="true"/>
+  <file name="contact.html" crc="4199375182" seo="true" mt="1543589199734" redirect="true"/>
 </manifest>
