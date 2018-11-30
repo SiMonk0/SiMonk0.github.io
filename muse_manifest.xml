@@ -1,24 +1,60 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543527612050">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543587940696">
   <folder name="images">
-    <file name="celidarkpanoramarev.jpg" crc="4053919207" ref="index">
+    <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:portfolio:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
+    <file name="road.jpg" crc="3870041364" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio"/>
+    <file name="cactus.jpg" crc="3936421572" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="48470008" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="road173x130.jpg" crc="3909419506" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cactus173x130.jpg" crc="443570246" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="trees173x130.jpg" crc="390341762" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4184340663" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="524379185" ref="index"/>
+    <file name="index.css" crc="3903230233" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="3887108731" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="3818344507" ref="contact"/>
+    <file name="portfolio.css" crc="448580478" ref="portfolio"/>
+    <file name="about.css" crc="209329432" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:portfolio:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:about:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:about:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:about:contact"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:about"/>
+    <file name="webpro.js" crc="4059564322" ref="portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3942722971" seo="true" mt="1543527604909" redirect="true"/>
+  <file name="index.html" crc="88426709" seo="true" mt="1543587936904" redirect="true"/>
+  <file name="portfolio.html" crc="4094413311" seo="true" mt="1543587936902" redirect="true"/>
+  <file name="about.html" crc="226169035" seo="true" mt="1543587936903" redirect="true"/>
+  <file name="contact.html" crc="4050547617" seo="true" mt="1543587931314" redirect="true"/>
 </manifest>
