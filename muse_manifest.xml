@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543589599080">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543589878737">
   <folder name="images">
     <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:portfolio:about">
       <caption webpage="index" alt=""/>
@@ -49,7 +49,7 @@
     <file name="index.css" crc="328264914" ref="index"/>
     <file name="master_a-wzorcowa.css" crc="493053178" ref="index:contact:portfolio:about"/>
     <file name="contact.css" crc="342825648" ref="contact"/>
-    <file name="portfolio.css" crc="4184854425" ref="portfolio"/>
+    <file name="portfolio.css" crc="516456320" ref="portfolio"/>
     <file name="about.css" crc="171425659" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -72,7 +72,7 @@
     <file name="form-u1131.php" crc="39817974" ref="contact"/>
   </folder>
   <file name="index.html" crc="3871337941" seo="true" mt="1543589199734" redirect="true"/>
-  <file name="portfolio.html" crc="4123781676" seo="true" mt="1543589589645" redirect="true"/>
+  <file name="portfolio.html" crc="3798156372" seo="true" mt="1543589871171" redirect="true"/>
   <file name="about.html" crc="3464558" seo="true" mt="1543589199734" redirect="true"/>
   <file name="contact.html" crc="4199375182" seo="true" mt="1543589199734" redirect="true"/>
 </manifest>
