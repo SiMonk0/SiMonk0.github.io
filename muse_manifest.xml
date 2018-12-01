@@ -1,154 +1,74 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543689336146">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543694474483">
   <folder name="images">
-    <file name="celidarkpanoramarev.jpg" crc="4190542029" ref="index:about">
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="portfolio:index"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:index:about:contact"/>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
-    <file name="loga-01.jpg" crc="28516156" seo="true" ref="portfolio">
+    <file name="loga-01.jpg" crc="3799731533" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-02.jpg" crc="229550574" seo="true" ref="portfolio">
+    <file name="loga-02.jpg" crc="222050023" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-03.jpg" crc="157950529" seo="true" ref="portfolio">
+    <file name="loga-03.jpg" crc="488055518" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-04.jpg" crc="530112432" seo="true" ref="portfolio">
+    <file name="loga-04.jpg" crc="3945754868" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-05.jpg" crc="414198640" seo="true" ref="portfolio">
+    <file name="loga-05.jpg" crc="107788244" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-06.jpg" crc="277746907" seo="true" ref="portfolio">
+    <file name="loga-06.jpg" crc="242519681" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-07.jpg" crc="117634917" seo="true" ref="portfolio">
+    <file name="loga-07.jpg" crc="3766532167" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-08.jpg" crc="168827911" seo="true" ref="portfolio">
+    <file name="loga-08.jpg" crc="536397194" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-09.jpg" crc="4279819783" seo="true" ref="portfolio">
+    <file name="loga-09.jpg" crc="4103363586" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-10.jpg" crc="4034822770" seo="true" ref="portfolio">
+    <file name="loga-10.jpg" crc="41512235" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-11.jpg" crc="3787194122" seo="true" ref="portfolio">
+    <file name="loga-11.jpg" crc="477962898" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-12.jpg" crc="4179307993" seo="true" ref="portfolio">
+    <file name="loga-12.jpg" crc="190580074" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-13.jpg" crc="3856244288" seo="true" ref="portfolio">
+    <file name="loga-13.jpg" crc="4125598593" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-14.jpg" crc="3909500470" seo="true" ref="portfolio">
+    <file name="loga-14.jpg" crc="146425846" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-15.jpg" crc="4212379852" seo="true" ref="portfolio">
+    <file name="loga-15.jpg" crc="408073648" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-16.jpg" crc="4127959644" seo="true" ref="portfolio">
+    <file name="loga-16.jpg" crc="3962610899" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-17.jpg" crc="4016942071" seo="true" ref="portfolio">
+    <file name="loga-17.jpg" crc="4285488915" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-18.jpg" crc="3923619189" seo="true" ref="portfolio">
+    <file name="loga-18.jpg" crc="4018019589" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-19.jpg" crc="3935727579" seo="true" ref="portfolio">
+    <file name="loga-19.jpg" crc="4210971427" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-20.jpg" crc="3998742927" seo="true" ref="portfolio">
+    <file name="loga-20.jpg" crc="298634118" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-21.jpg" crc="3928457809" seo="true" ref="portfolio">
+    <file name="loga-21.jpg" crc="4039336385" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-22.jpg" crc="235944017" seo="true" ref="portfolio">
+    <file name="loga-22.jpg" crc="4260458682" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="loga-23.jpg" crc="302950763" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-24.jpg" crc="4260004318" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-01173x138.jpg" crc="417287278" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-02173x138.jpg" crc="339211233" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-03173x138.jpg" crc="340993546" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-04173x138.jpg" crc="4078239757" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-05173x138.jpg" crc="4131491530" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-06173x138.jpg" crc="3985885206" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-07173x138.jpg" crc="4050929375" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-08173x138.jpg" crc="4228494540" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-09173x138.jpg" crc="438423964" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-10173x138.jpg" crc="4201317629" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-11173x138.jpg" crc="422021931" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-12173x138.jpg" crc="395394336" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-13173x138.jpg" crc="4102592427" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-14173x138.jpg" crc="3897446825" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-15173x138.jpg" crc="27506974" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-16173x138.jpg" crc="160925061" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-17173x138.jpg" crc="485317506" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-18173x138.jpg" crc="29388179" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-19173x138.jpg" crc="4242431007" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-20173x138.jpg" crc="4145706705" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-21173x138.jpg" crc="4002967671" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-22173x138.jpg" crc="4291032643" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-23173x138.jpg" crc="3966283424" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="loga-24173x138.jpg" crc="3976562298" seo="true" ref="portfolio">
+    <file name="loga-23.jpg" crc="59238317" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="stonicorn-01.jpg" crc="3968180842" seo="true" ref="portfolio">
@@ -277,22 +197,23 @@
     <file name="horsegame ui 50_sprocket hp loss and mana reg-crop-u9852.jpg" crc="3920221222" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaper-01-02.jpg" crc="3758107582" seo="true" ref="portfolio">
+    <file name="abstractwallpaper-01-02.jpg" crc="3813107904" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaper-01-03.jpg" crc="179733272" seo="true" ref="portfolio">
+    <file name="abstractwallpaper-01-03.jpg" crc="3883616414" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperii.jpg" crc="3962524406" seo="true" ref="portfolio">
+    <file name="abstractwallpaperii.jpg" crc="4099794030" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperii2.jpg" crc="3772675767" seo="true" ref="portfolio">
+    <file name="abstractwallpaperii2.jpg" crc="4229681649" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperii3.jpg" crc="202965624" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02.jpg" crc="160220747" seo="true" ref="portfolio">
+    <file name="abstractwallpaperiii-02.jpg" crc="266418845" ref="about">
+      <caption webpage="about" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04.jpg" crc="3987911078" seo="true" ref="portfolio">
@@ -337,22 +258,22 @@
     <file name="forest_a.png" crc="268555410" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaper-01-02-crop-u8420.jpg" crc="4191825198" seo="true" ref="portfolio">
+    <file name="abstractwallpaper-01-02-crop-u8420.jpg" crc="4057027835" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaper-01-03-crop-u8660.jpg" crc="460287091" seo="true" ref="portfolio">
+    <file name="abstractwallpaper-01-03-crop-u8660.jpg" crc="281063997" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperii-crop-u8680.jpg" crc="3859241650" seo="true" ref="portfolio">
+    <file name="abstractwallpaperii-crop-u8680.jpg" crc="458346921" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperii2-crop-u8700.jpg" crc="4195204978" seo="true" ref="portfolio">
+    <file name="abstractwallpaperii2-crop-u8700.jpg" crc="189405057" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperii3-crop-u8720.jpg" crc="4233370954" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02-crop-u8740.jpg" crc="298409616" seo="true" ref="portfolio">
+    <file name="abstractwallpaperiii-02-crop-u8740.jpg" crc="3878257778" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04-crop-u8760.jpg" crc="4180605531" seo="true" ref="portfolio">
@@ -469,14 +390,572 @@
     <file name="gamemenu-01-crop-u9440.jpg" crc="3995366936" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="storymode-website-idea.jpg" crc="3862109222" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="storymode-website-idea-crop-u9963.jpg" crc="214223613" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-021032x581.jpg" crc="428922503" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-01173x138.jpg" crc="4206103980" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-02173x138.jpg" crc="302778513" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-03173x138.jpg" crc="3774060813" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-04173x138.jpg" crc="4095248524" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-05173x138.jpg" crc="4208867671" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-06173x138.jpg" crc="46164820" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-07173x138.jpg" crc="117276137" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-08173x138.jpg" crc="355320904" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-09173x138.jpg" crc="527352945" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-10173x138.jpg" crc="236133371" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-11173x138.jpg" crc="351394636" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-12173x138.jpg" crc="4012074073" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-13173x138.jpg" crc="4138800451" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-14173x138.jpg" crc="442006011" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-15173x138.jpg" crc="4204636019" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-16173x138.jpg" crc="264189174" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-17173x138.jpg" crc="481916144" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-18173x138.jpg" crc="286995362" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-19173x138.jpg" crc="4093074210" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-20173x138.jpg" crc="216297489" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-21173x138.jpg" crc="410018464" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-22173x138.jpg" crc="299392206" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-23173x138.jpg" crc="4162294627" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twitter-size-background.jpg" crc="3876447409" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twitter-size-background-crop-u16848.jpg" crc="3900876605" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-01-crop-u10141.jpg" crc="3883984400" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-02-crop-u10420.jpg" crc="301432818" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-03-crop-u10440.jpg" crc="4260404982" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-04-crop-u10460.jpg" crc="310916855" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-05-crop-u10480.jpg" crc="4054787962" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-06-crop-u10500.jpg" crc="3902885271" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-07-crop-u10520.jpg" crc="79374451" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-08-crop-u10540.jpg" crc="171636342" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-09-crop-u10560.jpg" crc="3861872556" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-10-crop-u10580.jpg" crc="215125768" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-11-crop-u10600.jpg" crc="4026875178" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-12-crop-u10620.jpg" crc="3854501186" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-13-crop-u10640.jpg" crc="194776020" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-14-crop-u10660.jpg" crc="4290131791" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-15-crop-u10680.jpg" crc="4225744599" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-16-crop-u10700.jpg" crc="204505129" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-17-crop-u10720.jpg" crc="187832419" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-18-crop-u10740.jpg" crc="6989755" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-19-crop-u10760.jpg" crc="480062505" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-20-crop-u10780.jpg" crc="118955248" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-21-crop-u10800.jpg" crc="83325161" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-22-crop-u10820.jpg" crc="416405926" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-23-crop-u10840.jpg" crc="377578996" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-01117x93.jpg" crc="42998131" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-02117x93.jpg" crc="4255939868" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-03117x93.jpg" crc="3886808717" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-04117x93.jpg" crc="4132752420" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-05117x93.jpg" crc="59728777" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-06117x93.jpg" crc="100260475" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-07117x93.jpg" crc="200955680" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-08117x93.jpg" crc="4249321616" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-09117x93.jpg" crc="4134903923" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-10117x93.jpg" crc="484761428" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-11117x93.jpg" crc="4284288189" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-12117x93.jpg" crc="4003237061" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-13117x93.jpg" crc="449779445" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-14117x93.jpg" crc="3852823984" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-15117x93.jpg" crc="3812670714" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-16117x93.jpg" crc="47325407" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-17117x93.jpg" crc="251856597" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-18117x93.jpg" crc="3962670246" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-19117x93.jpg" crc="74215292" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-20117x93.jpg" crc="3873361407" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-21117x93.jpg" crc="17371940" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-22117x93.jpg" crc="4163916724" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loga-23117x93.jpg" crc="434864038" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-01-crop-u54142.jpg" crc="4293878864" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-02-crop-u57292.jpg" crc="444192910" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-03-crop-u57492.jpg" crc="4266261169" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-04-crop-u57692.jpg" crc="3948703260" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-05-crop-u57892.jpg" crc="491525989" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twitter-size-background-crop-u168482.jpg" crc="4079676539" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-06-crop-u58092.jpg" crc="320780243" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-01-crop-u5453.jpg" crc="3909170996" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-02-crop-u5723.jpg" crc="303550454" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-03-crop-u5743.jpg" crc="3873296184" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-04-crop-u5763.jpg" crc="4070441194" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-05-crop-u5783.jpg" crc="18811999" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twitter-size-background320x107.jpg" crc="501136183" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stonicorn-06-crop-u5803.jpg" crc="116506700" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main314x177.jpg" crc="4100326025" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_new game314x177.jpg" crc="214943728" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_saves314x177.jpg" crc="4194242137" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_options314x177.jpg" crc="4200289571" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_credits314x177.jpg" crc="84566123" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_exit314x177.jpg" crc="164929929" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy314x177.jpg" crc="311447665" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 2314x177.jpg" crc="386643308" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 3314x177.jpg" crc="103839532" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny copy 2314x177.jpg" crc="4148242301" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny copy314x177.jpg" crc="227608067" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny314x177.jpg" crc="4240321154" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_enemy hp loss314x177.jpg" crc="20312958" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_main all314x177.jpg" crc="22224910" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg314x177.jpg" crc="3977736960" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main-crop-u96722.jpg" crc="3765928239" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_new game-crop-u96922.jpg" crc="236860361" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_saves-crop-u97322.jpg" crc="459251813" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_options-crop-u97122.jpg" crc="463156609" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_credits-crop-u82212.jpg" crc="3998115037" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_exit-crop-u95922.jpg" crc="429393859" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy-crop-u96522.jpg" crc="97010459" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 2-crop-u96122.jpg" crc="4217217613" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 3-crop-u96322.jpg" crc="4011254979" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny copy 2-crop-u97522.jpg" crc="4234825281" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny copy-crop-u97722.jpg" crc="3758726021" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny-crop-u97922.jpg" crc="3981672689" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_enemy hp loss-crop-u98122.jpg" crc="43764440" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_main all-crop-u98322.jpg" crc="486797777" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg-crop-u98522.jpg" crc="3935682225" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaper-01-02314x177.jpg" crc="489800329" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaper-01-03314x177.jpg" crc="3791314544" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii314x177.jpg" crc="4021282948" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii2314x177.jpg" crc="10029136" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii3314x177.jpg" crc="3972208371" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-02304x171.jpg" crc="3822467301" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-04314x177.jpg" crc="4281707685" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractlineswallpaper-04314x177.jpg" crc="276920629" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractlineswallpaper-05314x177.jpg" crc="3806500462" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="canterlot-01314x177.jpg" crc="272046533" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="góry low-poly wallpaper304x215.jpg" crc="447138950" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="góry nexus low-poly304x213.jpg" crc="121888146" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="garden love285x190.jpg" crc="3759594650" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="halo poster preview304x203.jpg" crc="3987888155" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="koło-crop-u9056.jpg" crc="249116222" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="luna na wzgórzu-01314x177.jpg" crc="528732150" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lovev2-gg314x177.jpg" crc="3963453920" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow wallpaper 4k314x177.jpg" crc="321084592" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sarnab-crop-u9164.jpg" crc="4031920289" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="forest_a304x215.png" crc="4139015830" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaper-01-02-crop-u84202.jpg" crc="4264218484" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaper-01-03-crop-u86602.jpg" crc="4051642563" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii-crop-u86802.jpg" crc="90507796" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii2-crop-u87002.jpg" crc="347378597" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperii3-crop-u87202.jpg" crc="3934066763" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-02-crop-u87402.jpg" crc="4083919355" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-04-crop-u87602.jpg" crc="4121696921" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractlineswallpaper-04-crop-u87962.jpg" crc="3898982835" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractlineswallpaper-05-crop-u88162.jpg" crc="3886598502" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="canterlot-01-crop-u88442.jpg" crc="188972380" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="góry low-poly wallpaper125x88.jpg" crc="446608782" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="góry nexus low-poly126x88.jpg" crc="151742656" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="garden love132x88.jpg" crc="363622802" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="halo poster preview132x88.jpg" crc="3846756603" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="koło-crop-u90622.jpg" crc="3888061109" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="luna na wzgórzu-01-crop-u90892.jpg" crc="3997562707" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lovev2-gg-crop-u91162.jpg" crc="472868736" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow wallpaper 4k-crop-u91432.jpg" crc="239700142" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="sarnab-crop-u91702.jpg" crc="4108326269" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="forest_a125x88.png" crc="275961523" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="android mobile – 7-crop-u8563.jpg" crc="3975065856" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="android mobile – 8314x177.jpg" crc="4138555919" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 1314x177.jpg" crc="3932437918" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 2314x177.jpg" crc="257901303" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="storymode-website-idea314x177.jpg" crc="4006431668" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 3314x177.jpg" crc="4105017449" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 4314x177.jpg" crc="3820685169" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 1314x1772.jpg" crc="4155166695" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 2314x1772.jpg" crc="377509225" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 6314x177.jpg" crc="3967851821" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 7314x177.jpg" crc="429756958" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 8314x177.jpg" crc="3893062104" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gamemenu-01314x177.jpg" crc="372159011" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="android mobile – 7-crop-u85692.jpg" crc="147074298" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="android mobile – 8-crop-u85082.jpg" crc="61870490" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u92182.jpg" crc="3758261151" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u92382.jpg" crc="3758734549" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="storymode-website-idea-crop-u99632.jpg" crc="4178064549" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 3-crop-u92582.jpg" crc="4108691476" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 4-crop-u92782.jpg" crc="178516952" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u93332.jpg" crc="3889679937" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u93532.jpg" crc="504462571" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 6-crop-u93732.jpg" crc="521916998" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 7-crop-u93932.jpg" crc="206298577" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="web 1920 – 8-crop-u94132.jpg" crc="425656694" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="gamemenu-01-crop-u94402.jpg" crc="472556115" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstractwallpaperiii-02-u898-fr.jpg" crc="400576029" ref="about"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="205920585" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="3777140562" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="294617427" ref="contact"/>
-    <file name="portfolio.css" crc="398569857" ref="portfolio"/>
-    <file name="about.css" crc="3960862433" ref="about"/>
+    <file name="index.css" crc="3856129028" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="4046404696" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="3881219869" ref="contact"/>
+    <file name="portfolio.css" crc="107010263" ref="portfolio"/>
+    <file name="about.css" crc="4051357387" ref="about"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="398771785" ref="index:about:contact:portfolio"/>
+    <file name="nomq_index.css" crc="4088758682" ref="index"/>
+    <file name="nomq_about.css" crc="113940330" ref="about"/>
+    <file name="nomq_contact.css" crc="4020632214" ref="contact"/>
+    <file name="nomq_portfolio.css" crc="4289302935" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -487,14 +966,15 @@
     <file name="require.js" crc="7928878" ref="index:portfolio:about:contact"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="about"/>
     <file name="webpro.js" crc="4059564322" ref="portfolio"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
     <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:about:contact"/>
   </folder>
-  <file name="index.html" crc="3944105117" seo="true" mt="1543594050865" redirect="true"/>
-  <file name="portfolio.html" crc="4048712323" seo="true" mt="1543689317477" redirect="true"/>
-  <file name="about.html" crc="4166405467" seo="true" mt="1543594050865" redirect="true"/>
-  <file name="contact.html" crc="4043359486" seo="true" mt="1543614531261" redirect="true"/>
+  <file name="index.html" crc="4151770735" seo="true" mt="1543694457711" redirect="true"/>
+  <file name="portfolio.html" crc="3869820482" seo="true" mt="1543694457711" redirect="true"/>
+  <file name="about.html" crc="182049845" seo="true" mt="1543694457711" redirect="true"/>
+  <file name="contact.html" crc="527976449" seo="true" mt="1543694457711" redirect="true"/>
 </manifest>
