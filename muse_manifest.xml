@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1546444183224">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1546459814724">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="portfolio:index:about:contact"/>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
@@ -939,23 +939,23 @@
     <file name="gamemenu-01-crop-u94402.jpg" crc="472556115" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="man-1253004_1920.jpg" crc="4174285786" ref="index">
+    <file name="man-1253004_1920.jpg" crc="523356375" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4282059561" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="3957054413" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="3860094590" ref="contact"/>
-    <file name="portfolio.css" crc="195359164" ref="portfolio"/>
-    <file name="about.css" crc="499427651" ref="about"/>
+    <file name="index.css" crc="310587805" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="402680589" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="4281044122" ref="contact"/>
+    <file name="portfolio.css" crc="4157035708" ref="portfolio"/>
+    <file name="about.css" crc="4231839434" ref="about"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="4109340115" ref="index:about:contact:portfolio"/>
-    <file name="nomq_index.css" crc="4203702543" ref="index"/>
-    <file name="nomq_about.css" crc="3861780338" ref="about"/>
-    <file name="nomq_contact.css" crc="458917070" ref="contact"/>
-    <file name="nomq_portfolio.css" crc="226145988" ref="portfolio"/>
+    <file name="nomq_index.css" crc="244192036" ref="index"/>
+    <file name="nomq_about.css" crc="3984622867" ref="about"/>
+    <file name="nomq_contact.css" crc="44260986" ref="contact"/>
+    <file name="nomq_portfolio.css" crc="3798192052" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -973,8 +973,8 @@
     <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:about:contact"/>
   </folder>
-  <file name="index.html" crc="483637841" seo="true" mt="1546444165974" redirect="true"/>
-  <file name="portfolio.html" crc="476596748" seo="true" mt="1546444165974" redirect="true"/>
-  <file name="about.html" crc="3858460087" seo="true" mt="1546444165974" redirect="true"/>
-  <file name="contact.html" crc="4083181950" seo="true" mt="1546444165974" redirect="true"/>
+  <file name="index.html" crc="396562974" seo="true" mt="1546459791056" redirect="true"/>
+  <file name="portfolio.html" crc="262042121" seo="true" mt="1546459791056" redirect="true"/>
+  <file name="about.html" crc="52593004" seo="true" mt="1546459791056" redirect="true"/>
+  <file name="contact.html" crc="3847547733" seo="true" mt="1546459791056" redirect="true"/>
 </manifest>
