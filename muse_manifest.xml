@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1543694474483">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1546444183224">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="portfolio:index:about:contact"/>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
@@ -212,9 +212,9 @@
     <file name="abstractwallpaperii3.jpg" crc="202965624" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02.jpg" crc="266418845" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="abstractwallpaperiii-02.jpg" crc="428922503" ref="portfolio" seo="true">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04.jpg" crc="3987911078" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -273,7 +273,7 @@
     <file name="abstractwallpaperii3-crop-u8720.jpg" crc="4233370954" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02-crop-u8740.jpg" crc="3878257778" seo="true" ref="portfolio">
+    <file name="abstractwallpaperiii-02-crop-u8740.jpg" crc="3935902506" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04-crop-u8760.jpg" crc="4180605531" seo="true" ref="portfolio">
@@ -394,9 +394,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="storymode-website-idea-crop-u9963.jpg" crc="214223613" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="abstractwallpaperiii-021032x581.jpg" crc="428922503" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-01173x138.jpg" crc="4206103980" seo="true" ref="portfolio">
@@ -759,7 +756,7 @@
     <file name="abstractwallpaperii3314x177.jpg" crc="3972208371" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02304x171.jpg" crc="3822467301" seo="true" ref="portfolio">
+    <file name="abstractwallpaperiii-02304x171.jpg" crc="165298373" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04314x177.jpg" crc="4281707685" seo="true" ref="portfolio">
@@ -819,7 +816,7 @@
     <file name="abstractwallpaperii3-crop-u87202.jpg" crc="3934066763" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02-crop-u87402.jpg" crc="4083919355" seo="true" ref="portfolio">
+    <file name="abstractwallpaperiii-02-crop-u87402.jpg" crc="4172339157" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="abstractwallpaperiii-04-crop-u87602.jpg" crc="4121696921" seo="true" ref="portfolio">
@@ -942,20 +939,23 @@
     <file name="gamemenu-01-crop-u94402.jpg" crc="472556115" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="abstractwallpaperiii-02-u898-fr.jpg" crc="400576029" ref="about"/>
+    <file name="man-1253004_1920.jpg" crc="4174285786" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3856129028" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="4046404696" ref="index:contact:portfolio:about"/>
-    <file name="contact.css" crc="3881219869" ref="contact"/>
-    <file name="portfolio.css" crc="107010263" ref="portfolio"/>
-    <file name="about.css" crc="4051357387" ref="about"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="398771785" ref="index:about:contact:portfolio"/>
-    <file name="nomq_index.css" crc="4088758682" ref="index"/>
-    <file name="nomq_about.css" crc="113940330" ref="about"/>
-    <file name="nomq_contact.css" crc="4020632214" ref="contact"/>
-    <file name="nomq_portfolio.css" crc="4289302935" ref="portfolio"/>
+    <file name="index.css" crc="4282059561" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="3957054413" ref="index:contact:portfolio:about"/>
+    <file name="contact.css" crc="3860094590" ref="contact"/>
+    <file name="portfolio.css" crc="195359164" ref="portfolio"/>
+    <file name="about.css" crc="499427651" ref="about"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="4109340115" ref="index:about:contact:portfolio"/>
+    <file name="nomq_index.css" crc="4203702543" ref="index"/>
+    <file name="nomq_about.css" crc="3861780338" ref="about"/>
+    <file name="nomq_contact.css" crc="458917070" ref="contact"/>
+    <file name="nomq_portfolio.css" crc="226145988" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
@@ -966,15 +966,15 @@
     <file name="require.js" crc="7928878" ref="index:portfolio:about:contact"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:about:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="portfolio"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="portfolio"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="portfolio"/>
     <file name="touchswipe.js" crc="4075097462" ref="portfolio"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:about:contact"/>
   </folder>
-  <file name="index.html" crc="4151770735" seo="true" mt="1543694457711" redirect="true"/>
-  <file name="portfolio.html" crc="3869820482" seo="true" mt="1543694457711" redirect="true"/>
-  <file name="about.html" crc="182049845" seo="true" mt="1543694457711" redirect="true"/>
-  <file name="contact.html" crc="527976449" seo="true" mt="1543694457711" redirect="true"/>
+  <file name="index.html" crc="483637841" seo="true" mt="1546444165974" redirect="true"/>
+  <file name="portfolio.html" crc="476596748" seo="true" mt="1546444165974" redirect="true"/>
+  <file name="about.html" crc="3858460087" seo="true" mt="1546444165974" redirect="true"/>
+  <file name="contact.html" crc="4083181950" seo="true" mt="1546444165974" redirect="true"/>
 </manifest>
