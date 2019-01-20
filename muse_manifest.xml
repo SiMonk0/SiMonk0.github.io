@@ -1,314 +1,314 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1548013919503">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1548027420696">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="portfolio:index:about:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
     <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
     <file name="loga-01.jpg" crc="3844191406" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-02.jpg" crc="4053419864" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-03.jpg" crc="3946702180" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-04.jpg" crc="4020503162" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-05.jpg" crc="534348953" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-06.jpg" crc="194212588" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-07.jpg" crc="488269694" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-08.jpg" crc="3808086538" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-09.jpg" crc="431750294" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-10.jpg" crc="232282639" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-11.jpg" crc="147776489" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-12.jpg" crc="4062848085" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-13.jpg" crc="4158442377" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-14.jpg" crc="429525682" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-15.jpg" crc="4100210082" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-16.jpg" crc="3850499277" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-17.jpg" crc="3761807964" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-18.jpg" crc="277210890" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-19.jpg" crc="4173499603" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-20.jpg" crc="166173933" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-21.jpg" crc="401859515" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-22.jpg" crc="4236893067" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-23.jpg" crc="3761826556" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-01173x138.jpg" crc="3810099058" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-02173x138.jpg" crc="199360824" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-03173x138.jpg" crc="151038698" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-04173x138.jpg" crc="3901357135" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-05173x138.jpg" crc="4071875637" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-06173x138.jpg" crc="440208566" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-07173x138.jpg" crc="4194143936" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-08173x138.jpg" crc="3888397656" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-09173x138.jpg" crc="366570628" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-10173x138.jpg" crc="430065935" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-11173x138.jpg" crc="525615576" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-12173x138.jpg" crc="309384090" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-13173x138.jpg" crc="4215854437" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-14173x138.jpg" crc="195067357" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-15173x138.jpg" crc="352493466" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-16173x138.jpg" crc="4000173833" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-17173x138.jpg" crc="372307252" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-18173x138.jpg" crc="4087224862" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-19173x138.jpg" crc="97669791" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-20173x138.jpg" crc="462650769" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-21173x138.jpg" crc="3766190090" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-22173x138.jpg" crc="196655284" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-23173x138.jpg" crc="3994192551" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-01117x93.jpg" crc="424974617" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-02117x93.jpg" crc="3823834576" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-03117x93.jpg" crc="3872788950" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-04117x93.jpg" crc="38530947" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-05117x93.jpg" crc="4152227921" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-06117x93.jpg" crc="4273097529" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-07117x93.jpg" crc="327115376" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-08117x93.jpg" crc="92015167" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-09117x93.jpg" crc="4279098535" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-10117x93.jpg" crc="3817013336" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-11117x93.jpg" crc="380765377" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-12117x93.jpg" crc="97251548" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-13117x93.jpg" crc="454891839" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-14117x93.jpg" crc="245803404" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-15117x93.jpg" crc="3979029736" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-16117x93.jpg" crc="93283172" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-17117x93.jpg" crc="3866561845" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-18117x93.jpg" crc="3829319081" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-19117x93.jpg" crc="292852014" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-20117x93.jpg" crc="372772932" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-21117x93.jpg" crc="287533303" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-22117x93.jpg" crc="475858065" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-23117x93.jpg" crc="4220323669" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-25.jpg" crc="4042980840" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-26.jpg" crc="72348419" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-26173x138.jpg" crc="472558390" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-25173x138.jpg" crc="369979423" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-25223x177.jpg" crc="3812575569" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-26223x177.jpg" crc="3942242449" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-25117x93.jpg" crc="274973227" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loga-26117x93.jpg" crc="4007375678" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="simonk0-logo.jpg" crc="3875013976" ref="index:about">
       <caption webpage="index" alt=""/>
@@ -391,9 +391,9 @@
       <caption webpage="horsegame" alt=""/>
     </file>
     <file name="ponyage chronicles menu-01.jpg" crc="3842802295" ref="ponyage-chronicles">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="twitter-size-background.jpg" crc="67675455" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
@@ -553,7 +553,7 @@
     <file name="web 1920 – 2-u35351-fr.jpg" crc="490701792" ref="portfolio"/>
     <file name="ponyage chronicles menu-01-u35233-fr.jpg" crc="229358304" ref="portfolio"/>
     <file name="2-u35372-fr.jpg" crc="3989142642" ref="portfolio"/>
-    <file name="logomock-u32280-fr2.jpg" crc="453180368" ref="portfolio"/>
+    <file name="logomock-u32280-fr2.jpg" crc="3920899924" ref="portfolio"/>
     <file name="logomock.jpg" crc="371865298" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
@@ -1216,31 +1216,36 @@
     <file name="horsegameweb.jpg" crc="4250738377" ref="horsegame">
       <caption webpage="horsegame" alt=""/>
     </file>
+    <file name="twitter-size-background-u35207-fr2.jpg" crc="113115849" ref="portfolio"/>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr2.jpg" crc="4067541844" ref="portfolio"/>
+    <file name="ponyage chronicles menu-01-u35233-fr2.jpg" crc="4074442753" ref="portfolio"/>
+    <file name="web 1920 – 2-u35351-fr2.jpg" crc="82596528" ref="portfolio"/>
+    <file name="2-u35372-fr2.jpg" crc="3764163900" ref="portfolio"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="132266982" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="528425917" ref="index:contact:portfolio:about:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
-    <file name="contact.css" crc="3886633602" ref="contact"/>
-    <file name="portfolio.css" crc="502392835" ref="portfolio"/>
-    <file name="about.css" crc="3855665643" ref="about"/>
+    <file name="index.css" crc="529775352" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="3788074285" ref="index:contact:portfolio:about:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
+    <file name="contact.css" crc="519030282" ref="contact"/>
+    <file name="portfolio.css" crc="43696758" ref="portfolio"/>
+    <file name="about.css" crc="4051491619" ref="about"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="3817134788" ref="index:about:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
-    <file name="nomq_index.css" crc="4180379534" ref="index"/>
-    <file name="nomq_about.css" crc="6510509" ref="about"/>
-    <file name="nomq_contact.css" crc="3981572980" ref="contact"/>
-    <file name="nomq_portfolio.css" crc="361758519" ref="portfolio"/>
-    <file name="logos.css" crc="4255535090" ref="logos"/>
-    <file name="nomq_logos.css" crc="386104682" ref="logos"/>
-    <file name="stonicorn.css" crc="521706974" ref="stonicorn"/>
-    <file name="nomq_stonicorn.css" crc="112214112" ref="stonicorn"/>
-    <file name="personal-work.css" crc="3873076428" ref="personal-work"/>
-    <file name="nomq_personal-work.css" crc="133407770" ref="personal-work"/>
-    <file name="ponyage-chronicles.css" crc="11988933" ref="ponyage-chronicles"/>
-    <file name="nomq_ponyage-chronicles.css" crc="4210084814" ref="ponyage-chronicles"/>
-    <file name="uiux.css" crc="86220517" ref="uiux"/>
-    <file name="nomq_uiux.css" crc="413764401" ref="uiux"/>
-    <file name="horsegame.css" crc="3766557658" ref="horsegame"/>
-    <file name="nomq_horsegame.css" crc="3847887016" ref="horsegame"/>
+    <file name="nomq_index.css" crc="3901545152" ref="index"/>
+    <file name="nomq_about.css" crc="3874758018" ref="about"/>
+    <file name="nomq_contact.css" crc="4103922664" ref="contact"/>
+    <file name="nomq_portfolio.css" crc="3900675053" ref="portfolio"/>
+    <file name="logos.css" crc="465501168" ref="logos"/>
+    <file name="nomq_logos.css" crc="178565349" ref="logos"/>
+    <file name="stonicorn.css" crc="4074175373" ref="stonicorn"/>
+    <file name="nomq_stonicorn.css" crc="247743209" ref="stonicorn"/>
+    <file name="personal-work.css" crc="4219807479" ref="personal-work"/>
+    <file name="nomq_personal-work.css" crc="4059873008" ref="personal-work"/>
+    <file name="ponyage-chronicles.css" crc="380960329" ref="ponyage-chronicles"/>
+    <file name="nomq_ponyage-chronicles.css" crc="107724428" ref="ponyage-chronicles"/>
+    <file name="uiux.css" crc="403481918" ref="uiux"/>
+    <file name="nomq_uiux.css" crc="496677667" ref="uiux"/>
+    <file name="horsegame.css" crc="3835589861" ref="horsegame"/>
+    <file name="nomq_horsegame.css" crc="61430561" ref="horsegame"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
@@ -1258,14 +1263,14 @@
     <file name="touchswipe.js" crc="4075097462" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:about:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
   </folder>
-  <file name="index.html" crc="261135147" seo="true" mt="1548013857099" redirect="true"/>
-  <file name="portfolio.html" crc="512696841" seo="true" mt="1548013822406" redirect="true"/>
-  <file name="about.html" crc="4236079457" seo="true" mt="1548013872353" redirect="true"/>
-  <file name="contact.html" crc="4138526191" seo="true" mt="1548013862445" redirect="true"/>
-  <file name="logos.html" crc="4192339680" seo="true" mt="1548010699143" redirect="true"/>
-  <file name="stonicorn.html" crc="4130817639" seo="true" mt="1548013910498" redirect="true"/>
-  <file name="horsegame.html" crc="227353244" seo="true" mt="1548013910202" redirect="true"/>
-  <file name="ponyage-chronicles.html" crc="268327032" seo="true" mt="1548012471754" redirect="true"/>
-  <file name="uiux.html" crc="3880120029" seo="true" mt="1548011011373" redirect="true"/>
-  <file name="personal-work.html" crc="475174572" seo="true" mt="1548011632746" redirect="true"/>
+  <file name="index.html" crc="431544752" seo="true" mt="1548027355586" redirect="true"/>
+  <file name="portfolio.html" crc="4233486902" seo="true" mt="1548027407663" redirect="true"/>
+  <file name="about.html" crc="38029363" seo="true" mt="1548027386605" redirect="true"/>
+  <file name="contact.html" crc="3908685591" seo="true" mt="1548027363655" redirect="true"/>
+  <file name="logos.html" crc="4173161735" seo="true" mt="1548027193504" redirect="true"/>
+  <file name="stonicorn.html" crc="22233963" seo="true" mt="1548027255476" redirect="true"/>
+  <file name="horsegame.html" crc="85336884" seo="true" mt="1548027255208" redirect="true"/>
+  <file name="ponyage-chronicles.html" crc="80887810" seo="true" mt="1548027193504" redirect="true"/>
+  <file name="uiux.html" crc="4249586303" seo="true" mt="1548027193504" redirect="true"/>
+  <file name="personal-work.html" crc="3812511838" seo="true" mt="1548027193504" redirect="true"/>
 </manifest>
