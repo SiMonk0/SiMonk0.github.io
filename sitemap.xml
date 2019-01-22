@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-01-21</lastmod>
+    <lastmod>2019-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -672,6 +672,9 @@
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201.jpg</image:loc>
     </image:image>
     <image:image>
@@ -682,9 +685,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2021032x581.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207.jpg</image:loc>
@@ -792,9 +792,6 @@
       <image:loc>http://SiMonk0.github.io/images/1ui.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2ui.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
     </image:image>
     <image:image>
@@ -811,6 +808,9 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/2ui132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui899x599.jpg</image:loc>
     </image:image>
   </url>
   <url>
