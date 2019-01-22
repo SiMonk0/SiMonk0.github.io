@@ -665,7 +665,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-01-21</lastmod>
+    <lastmod>2019-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -676,12 +676,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%207.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%208.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2022.jpg</image:loc>
@@ -714,12 +708,6 @@
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u39038.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%207-crop-u39084.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%208-crop-u39115.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u38945.jpg</image:loc>
     </image:image>
     <image:image>
@@ -748,12 +736,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%207100x177.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%208304x171.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202304x171.jpg</image:loc>
@@ -786,12 +768,6 @@
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u390382.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%207-crop-u390842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/android%20mobile%20%E2%80%93%208-crop-u391152.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u389452.jpg</image:loc>
     </image:image>
     <image:image>
@@ -811,6 +787,30 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u393072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui195x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui265x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui265x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui132x88.jpg</image:loc>
     </image:image>
   </url>
   <url>
