@@ -812,6 +812,18 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/2ui899x599.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/mail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/mail-crop-u45188.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/mail304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/mail-crop-u451882.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
