@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -332,7 +332,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -464,7 +464,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/horsegame.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -605,7 +605,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -665,7 +665,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -729,36 +729,6 @@
       <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u39307.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201304x1712.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202304x1712.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea304x171.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u380152.jpg</image:loc>
     </image:image>
     <image:image>
@@ -792,42 +762,72 @@
       <image:loc>http://SiMonk0.github.io/images/1ui.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2ui195x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/1ui265x177.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2ui265x177.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/1ui132x88.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/2ui132x88.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui265x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui265x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201304x1712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202304x1712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204304x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui195x130.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/2ui899x599.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/mail.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u45995.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/mail-crop-u45188.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2013.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/mail304x171.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201304x1713.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/mail-crop-u451882.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u459952.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-01-22</lastmod>
+    <lastmod>2019-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
