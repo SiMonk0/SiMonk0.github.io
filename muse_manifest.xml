@@ -1,304 +1,304 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1548878269370">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1550404860693">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="portfolio:index:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
     <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="loga-01.jpg" crc="3844191406" seo="true" ref="logos">
+    <file name="loga-01.jpg" crc="4080662319" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-02.jpg" crc="4053419864" seo="true" ref="logos">
+    <file name="loga-02.jpg" crc="383915136" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-03.jpg" crc="3946702180" seo="true" ref="logos">
+    <file name="loga-03.jpg" crc="499087498" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-04.jpg" crc="4020503162" seo="true" ref="logos">
+    <file name="loga-04.jpg" crc="11780664" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-05.jpg" crc="534348953" seo="true" ref="logos">
+    <file name="loga-05.jpg" crc="79238348" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-06.jpg" crc="194212588" seo="true" ref="logos">
+    <file name="loga-06.jpg" crc="370635035" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-07.jpg" crc="488269694" seo="true" ref="logos">
+    <file name="loga-07.jpg" crc="3801283385" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-08.jpg" crc="3808086538" seo="true" ref="logos">
+    <file name="loga-08.jpg" crc="3933158460" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-09.jpg" crc="431750294" seo="true" ref="logos">
+    <file name="loga-09.jpg" crc="3878507306" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-10.jpg" crc="232282639" seo="true" ref="logos">
+    <file name="loga-10.jpg" crc="493866753" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-11.jpg" crc="147776489" seo="true" ref="logos">
+    <file name="loga-11.jpg" crc="400764785" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-12.jpg" crc="4062848085" seo="true" ref="logos">
+    <file name="loga-12.jpg" crc="4153805105" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-13.jpg" crc="4158442377" seo="true" ref="logos">
+    <file name="loga-13.jpg" crc="387503866" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-14.jpg" crc="429525682" seo="true" ref="logos">
+    <file name="loga-14.jpg" crc="520786220" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-15.jpg" crc="4100210082" seo="true" ref="logos">
+    <file name="loga-15.jpg" crc="460360087" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-16.jpg" crc="3850499277" seo="true" ref="logos">
+    <file name="loga-16.jpg" crc="451352323" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-17.jpg" crc="3761807964" seo="true" ref="logos">
+    <file name="loga-17.jpg" crc="4220588650" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-18.jpg" crc="277210890" seo="true" ref="logos">
+    <file name="loga-18.jpg" crc="3763310501" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-19.jpg" crc="4173499603" seo="true" ref="logos">
+    <file name="loga-19.jpg" crc="3867628624" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-20.jpg" crc="166173933" seo="true" ref="logos">
+    <file name="loga-20.jpg" crc="345024796" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-21.jpg" crc="401859515" seo="true" ref="logos">
+    <file name="loga-21.jpg" crc="317935831" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-22.jpg" crc="4236893067" seo="true" ref="logos">
+    <file name="loga-22.jpg" crc="228026246" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-23.jpg" crc="3761826556" seo="true" ref="logos">
+    <file name="loga-23.jpg" crc="386872591" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-01173x138.jpg" crc="3810099058" seo="true" ref="logos">
+    <file name="loga-01173x138.jpg" crc="4225274074" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-02173x138.jpg" crc="199360824" seo="true" ref="logos">
+    <file name="loga-02173x138.jpg" crc="124089712" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-03173x138.jpg" crc="151038698" seo="true" ref="logos">
+    <file name="loga-03173x138.jpg" crc="4143012762" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-04173x138.jpg" crc="3901357135" seo="true" ref="logos">
+    <file name="loga-04173x138.jpg" crc="4216154501" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-05173x138.jpg" crc="4071875637" seo="true" ref="logos">
+    <file name="loga-05173x138.jpg" crc="119233937" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-06173x138.jpg" crc="440208566" seo="true" ref="logos">
+    <file name="loga-06173x138.jpg" crc="518663399" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-07173x138.jpg" crc="4194143936" seo="true" ref="logos">
+    <file name="loga-07173x138.jpg" crc="4140093225" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-08173x138.jpg" crc="3888397656" seo="true" ref="logos">
+    <file name="loga-08173x138.jpg" crc="270908891" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-09173x138.jpg" crc="366570628" seo="true" ref="logos">
+    <file name="loga-09173x138.jpg" crc="4022116581" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-10173x138.jpg" crc="430065935" seo="true" ref="logos">
+    <file name="loga-10173x138.jpg" crc="65671700" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-11173x138.jpg" crc="525615576" seo="true" ref="logos">
+    <file name="loga-11173x138.jpg" crc="4242305504" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-12173x138.jpg" crc="309384090" seo="true" ref="logos">
+    <file name="loga-12173x138.jpg" crc="3914419626" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-13173x138.jpg" crc="4215854437" seo="true" ref="logos">
+    <file name="loga-13173x138.jpg" crc="99107927" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-14173x138.jpg" crc="195067357" seo="true" ref="logos">
+    <file name="loga-14173x138.jpg" crc="66489772" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-15173x138.jpg" crc="352493466" seo="true" ref="logos">
+    <file name="loga-15173x138.jpg" crc="4189549189" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-16173x138.jpg" crc="4000173833" seo="true" ref="logos">
+    <file name="loga-16173x138.jpg" crc="3881157755" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-17173x138.jpg" crc="372307252" seo="true" ref="logos">
+    <file name="loga-17173x138.jpg" crc="319152644" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-18173x138.jpg" crc="4087224862" seo="true" ref="logos">
+    <file name="loga-18173x138.jpg" crc="4208179789" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-19173x138.jpg" crc="97669791" seo="true" ref="logos">
+    <file name="loga-19173x138.jpg" crc="3959366601" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-20173x138.jpg" crc="462650769" seo="true" ref="logos">
+    <file name="loga-20173x138.jpg" crc="4248806652" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-21173x138.jpg" crc="3766190090" seo="true" ref="logos">
+    <file name="loga-21173x138.jpg" crc="4132790575" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-22173x138.jpg" crc="196655284" seo="true" ref="logos">
+    <file name="loga-22173x138.jpg" crc="51239278" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-23173x138.jpg" crc="3994192551" seo="true" ref="logos">
+    <file name="loga-23173x138.jpg" crc="4087068594" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-01117x93.jpg" crc="424974617" seo="true" ref="logos">
+    <file name="loga-01117x93.jpg" crc="3807994578" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-02117x93.jpg" crc="3823834576" seo="true" ref="logos">
+    <file name="loga-02117x93.jpg" crc="3937874561" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-03117x93.jpg" crc="3872788950" seo="true" ref="logos">
+    <file name="loga-03117x93.jpg" crc="2466999" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-04117x93.jpg" crc="38530947" seo="true" ref="logos">
+    <file name="loga-04117x93.jpg" crc="4214539291" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-05117x93.jpg" crc="4152227921" seo="true" ref="logos">
+    <file name="loga-05117x93.jpg" crc="3884541539" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-06117x93.jpg" crc="4273097529" seo="true" ref="logos">
+    <file name="loga-06117x93.jpg" crc="4267793862" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-07117x93.jpg" crc="327115376" seo="true" ref="logos">
+    <file name="loga-07117x93.jpg" crc="477770263" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-08117x93.jpg" crc="92015167" seo="true" ref="logos">
+    <file name="loga-08117x93.jpg" crc="4158198334" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-09117x93.jpg" crc="4279098535" seo="true" ref="logos">
+    <file name="loga-09117x93.jpg" crc="3867216043" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-10117x93.jpg" crc="3817013336" seo="true" ref="logos">
+    <file name="loga-10117x93.jpg" crc="4253545982" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-11117x93.jpg" crc="380765377" seo="true" ref="logos">
+    <file name="loga-11117x93.jpg" crc="306676150" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-12117x93.jpg" crc="97251548" seo="true" ref="logos">
+    <file name="loga-12117x93.jpg" crc="4099279522" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-13117x93.jpg" crc="454891839" seo="true" ref="logos">
+    <file name="loga-13117x93.jpg" crc="3980280615" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-14117x93.jpg" crc="245803404" seo="true" ref="logos">
+    <file name="loga-14117x93.jpg" crc="4026984365" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-15117x93.jpg" crc="3979029736" seo="true" ref="logos">
+    <file name="loga-15117x93.jpg" crc="389190966" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-16117x93.jpg" crc="93283172" seo="true" ref="logos">
+    <file name="loga-16117x93.jpg" crc="3869858241" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-17117x93.jpg" crc="3866561845" seo="true" ref="logos">
+    <file name="loga-17117x93.jpg" crc="126774975" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-18117x93.jpg" crc="3829319081" seo="true" ref="logos">
+    <file name="loga-18117x93.jpg" crc="325032331" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-19117x93.jpg" crc="292852014" seo="true" ref="logos">
+    <file name="loga-19117x93.jpg" crc="3835975917" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-20117x93.jpg" crc="372772932" seo="true" ref="logos">
+    <file name="loga-20117x93.jpg" crc="68762792" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-21117x93.jpg" crc="287533303" seo="true" ref="logos">
+    <file name="loga-21117x93.jpg" crc="298855178" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-22117x93.jpg" crc="475858065" seo="true" ref="logos">
+    <file name="loga-22117x93.jpg" crc="4247327648" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-23117x93.jpg" crc="4220323669" seo="true" ref="logos">
+    <file name="loga-23117x93.jpg" crc="3868246245" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-25.jpg" crc="4042980840" seo="true" ref="logos">
+    <file name="loga-25.jpg" crc="255999939" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-26.jpg" crc="72348419" seo="true" ref="logos">
+    <file name="loga-26.jpg" crc="313657433" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-26173x138.jpg" crc="472558390" seo="true" ref="logos">
+    <file name="loga-26173x138.jpg" crc="3767378884" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-25173x138.jpg" crc="369979423" seo="true" ref="logos">
+    <file name="loga-25173x138.jpg" crc="488642348" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-25117x93.jpg" crc="274973227" seo="true" ref="logos">
+    <file name="loga-25117x93.jpg" crc="3976333506" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-26117x93.jpg" crc="4007375678" seo="true" ref="logos">
+    <file name="loga-26117x93.jpg" crc="4272249786" seo="true" ref="logos">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
@@ -308,73 +308,73 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="loga-01-crop-u30331.jpg" crc="105224477" seo="true" ref="logos">
+    <file name="loga-01-crop-u30331.jpg" crc="279209980" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-02-crop-u30343.jpg" crc="487847685" seo="true" ref="logos">
+    <file name="loga-02-crop-u30343.jpg" crc="141160135" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-03-crop-u30353.jpg" crc="4188873911" seo="true" ref="logos">
+    <file name="loga-03-crop-u30353.jpg" crc="4166912281" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-04-crop-u30369.jpg" crc="4222500052" seo="true" ref="logos">
+    <file name="loga-04-crop-u30369.jpg" crc="296892401" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-05-crop-u30347.jpg" crc="3871755925" seo="true" ref="logos">
+    <file name="loga-05-crop-u30347.jpg" crc="451204517" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-06-crop-u30337.jpg" crc="210123951" seo="true" ref="logos">
+    <file name="loga-06-crop-u30337.jpg" crc="4000359904" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-07-crop-u30359.jpg" crc="4156139827" seo="true" ref="logos">
+    <file name="loga-07-crop-u30359.jpg" crc="4267710657" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-08-crop-u30355.jpg" crc="4259420248" seo="true" ref="logos">
+    <file name="loga-08-crop-u30355.jpg" crc="376135014" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-09-crop-u30349.jpg" crc="4265356107" seo="true" ref="logos">
+    <file name="loga-09-crop-u30349.jpg" crc="60460820" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-10-crop-u30357.jpg" crc="521831101" seo="true" ref="logos">
+    <file name="loga-10-crop-u30357.jpg" crc="3860090774" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-11-crop-u30339.jpg" crc="4129251372" seo="true" ref="logos">
+    <file name="loga-11-crop-u30339.jpg" crc="4294176157" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-12-crop-u30333.jpg" crc="205222302" seo="true" ref="logos">
+    <file name="loga-12-crop-u30333.jpg" crc="4159803359" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-13-crop-u30375.jpg" crc="18067918" seo="true" ref="logos">
+    <file name="loga-13-crop-u30375.jpg" crc="4041570439" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-14-crop-u30351.jpg" crc="486425779" seo="true" ref="logos">
+    <file name="loga-14-crop-u30351.jpg" crc="3902991312" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-15-crop-u30365.jpg" crc="405297430" seo="true" ref="logos">
+    <file name="loga-15-crop-u30365.jpg" crc="478583920" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-16-crop-u30367.jpg" crc="3829232922" seo="true" ref="logos">
+    <file name="loga-16-crop-u30367.jpg" crc="527402399" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-17-crop-u30345.jpg" crc="416073775" seo="true" ref="logos">
+    <file name="loga-17-crop-u30345.jpg" crc="520651261" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-18-crop-u30379.jpg" crc="263503079" seo="true" ref="logos">
+    <file name="loga-18-crop-u30379.jpg" crc="3979686624" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-19-crop-u30361.jpg" crc="3907675417" seo="true" ref="logos">
+    <file name="loga-19-crop-u30361.jpg" crc="416655374" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-20-crop-u30341.jpg" crc="404700945" seo="true" ref="logos">
+    <file name="loga-20-crop-u30341.jpg" crc="4090504199" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-21-crop-u30335.jpg" crc="3874329186" seo="true" ref="logos">
+    <file name="loga-21-crop-u30335.jpg" crc="3792778644" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-22-crop-u30363.jpg" crc="3914401100" seo="true" ref="logos">
+    <file name="loga-22-crop-u30363.jpg" crc="342870023" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-23-crop-u30373.jpg" crc="241969313" seo="true" ref="logos">
+    <file name="loga-23-crop-u30373.jpg" crc="168683350" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
     <file name="horsegame ui 50_sprocket hp loss and mana reg.jpg" crc="3798174560" ref="horsegame">
@@ -1085,10 +1085,10 @@
     <file name="web 1920 – 1-crop-u459952.jpg" crc="4233247194" seo="true" ref="uiux">
       <caption webpage="uiux" alt=""/>
     </file>
-    <file name="loga-25261x207.jpg" crc="463905112" seo="true" ref="logos">
+    <file name="loga-25261x207.jpg" crc="4145509902" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loga-26261x207.jpg" crc="201937708" seo="true" ref="logos">
+    <file name="loga-26261x207.jpg" crc="4032105017" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
     <file name="2366x206.jpg" crc="4007080679" seo="true" ref="stonicorn">
@@ -1308,19 +1308,43 @@
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="logomock-u37727-fr.jpg" crc="467411488" ref="logos"/>
+    <file name="loga-28.jpg" crc="530013082" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27.jpg" crc="3781182000" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28173x138.jpg" crc="406055732" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27173x138.jpg" crc="504798034" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28260x206.jpg" crc="233625799" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27260x206.jpg" crc="20730863" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28117x93.jpg" crc="4260100537" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27117x93.jpg" crc="166895035" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4132738426" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="373404809" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
+    <file name="master_a-wzorcowa.css" crc="3920512482" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
     <file name="contact.css" crc="3951693106" ref="contact"/>
     <file name="portfolio.css" crc="272085595" ref="portfolio"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="3817134788" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="369203372" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
     <file name="nomq_index.css" crc="23327682" ref="index"/>
     <file name="nomq_contact.css" crc="106294992" ref="contact"/>
     <file name="nomq_portfolio.css" crc="416370131" ref="portfolio"/>
-    <file name="logos.css" crc="367547412" ref="logos"/>
-    <file name="nomq_logos.css" crc="4013967891" ref="logos"/>
+    <file name="logos.css" crc="181304634" ref="logos"/>
+    <file name="nomq_logos.css" crc="69943399" ref="logos"/>
     <file name="stonicorn.css" crc="317354410" ref="stonicorn"/>
     <file name="nomq_stonicorn.css" crc="404788595" ref="stonicorn"/>
     <file name="personal-work.css" crc="4004166712" ref="personal-work"/>
@@ -1351,7 +1375,7 @@
   <file name="index.html" crc="393591317" seo="true" mt="1548279535719" redirect="true"/>
   <file name="portfolio.html" crc="4050960246" seo="true" mt="1548878241545" redirect="true"/>
   <file name="contact.html" crc="3799420918" seo="true" mt="1548279535719" redirect="true"/>
-  <file name="logos.html" crc="4149014579" seo="true" mt="1548878241546" redirect="true"/>
+  <file name="logos.html" crc="3985555107" seo="true" mt="1550404841967" redirect="true"/>
   <file name="stonicorn.html" crc="3791339967" seo="true" mt="1548871982601" redirect="true"/>
   <file name="horsegame.html" crc="349313175" seo="true" mt="1548872010527" redirect="true"/>
   <file name="ponyage-chronicles.html" crc="289312852" seo="true" mt="1548872062573" redirect="true"/>
