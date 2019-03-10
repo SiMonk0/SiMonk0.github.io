@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -346,6 +346,18 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-27117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29117x93.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -950,11 +962,11 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/22.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked.png</image:loc>
@@ -1240,6 +1252,18 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc233x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster1032x581.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u48102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u481022.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
