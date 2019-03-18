@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SiMonk0.github.io/index.html</loc>
-    <lastmod>2019-01-23</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-03-10</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-02-17</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -536,7 +536,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/horsegame.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -722,7 +722,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -800,7 +800,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-01-30</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -962,12 +962,9 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-03-10</lastmod>
+    <lastmod>2019-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked.png</image:loc>
     </image:image>
@@ -1264,6 +1261,9 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u481022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/22.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
