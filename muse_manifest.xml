@@ -1,314 +1,260 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553117691645">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553259621380">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-wzorcowa.css" crc="4167059392" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="369203372" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="logos.css" crc="4244121163" ref="logos"/>
+    <file name="nomq_logos.css" crc="4262395239" ref="logos"/>
+    <file name="contact.css" crc="281285587" ref="contact"/>
+    <file name="nomq_contact.css" crc="3822742241" ref="contact"/>
+    <file name="storymode.css" crc="272439552" ref="storymode"/>
+    <file name="nomq_storymode.css" crc="295428455" ref="storymode"/>
+    <file name="index.css" crc="29028200" ref="index"/>
+    <file name="nomq_index.css" crc="3869300607" ref="index"/>
+    <file name="horsegame.css" crc="185101981" ref="horsegame"/>
+    <file name="nomq_horsegame.css" crc="83449797" ref="horsegame"/>
+    <file name="portfolio.css" crc="4266930550" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="207051606" ref="portfolio"/>
+    <file name="uiux.css" crc="4186335486" ref="uiux"/>
+    <file name="nomq_uiux.css" crc="3949793278" ref="uiux"/>
+    <file name="stonicorn.css" crc="238085895" ref="stonicorn"/>
+    <file name="nomq_stonicorn.css" crc="4205751577" ref="stonicorn"/>
+    <file name="ponyage-chronicles.css" crc="3840330460" ref="ponyage-chronicles"/>
+    <file name="nomq_ponyage-chronicles.css" crc="279496909" ref="ponyage-chronicles"/>
+    <file name="personal-work.css" crc="4061568681" ref="personal-work"/>
+    <file name="nomq_personal-work.css" crc="4180858053" ref="personal-work"/>
+    <file name="ponygames.css" crc="173905419" ref="ponygames"/>
+    <file name="nomq_ponygames.css" crc="473136862" ref="ponygames"/>
+  </folder>
+  <folder name="fonts">
+    <file name="stonicornfontregular.woff" crc="3844255562"/>
+    <file name="stonicornfontregular.eot" crc="3964653285"/>
+    <file name="stonicornfontregular.svg" crc="250698419"/>
+    <file name="storymodefontregular.woff" crc="3985983687"/>
+    <file name="storymodefontregular.eot" crc="345782761"/>
+    <file name="storymodefontregular.svg" crc="330705829"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames"/>
+    <file name="touchswipe.js" crc="4075097462" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="contact"/>
+  </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="portfolio:index:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="loga-01.jpg" crc="4080662319" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-02.jpg" crc="383915136" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-03.jpg" crc="499087498" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-04.jpg" crc="11780664" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-05.jpg" crc="79238348" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-06.jpg" crc="370635035" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-07.jpg" crc="3801283385" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-08.jpg" crc="3933158460" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-09.jpg" crc="3878507306" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-10.jpg" crc="493866753" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-11.jpg" crc="400764785" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-12.jpg" crc="4153805105" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-13.jpg" crc="387503866" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-14.jpg" crc="520786220" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-15.jpg" crc="460360087" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-16.jpg" crc="451352323" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-17.jpg" crc="4220588650" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-18.jpg" crc="3763310501" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-19.jpg" crc="3867628624" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-20.jpg" crc="345024796" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-21.jpg" crc="317935831" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-22.jpg" crc="228026246" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-23.jpg" crc="386872591" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-01173x138.jpg" crc="4225274074" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-02173x138.jpg" crc="124089712" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-03173x138.jpg" crc="4143012762" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-04173x138.jpg" crc="4216154501" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-05173x138.jpg" crc="119233937" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-06173x138.jpg" crc="518663399" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-07173x138.jpg" crc="4140093225" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-08173x138.jpg" crc="270908891" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-09173x138.jpg" crc="4022116581" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-10173x138.jpg" crc="65671700" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-11173x138.jpg" crc="4242305504" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-12173x138.jpg" crc="3914419626" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-13173x138.jpg" crc="99107927" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-14173x138.jpg" crc="66489772" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-15173x138.jpg" crc="4189549189" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-16173x138.jpg" crc="3881157755" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-17173x138.jpg" crc="319152644" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-18173x138.jpg" crc="4208179789" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-19173x138.jpg" crc="3959366601" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-20173x138.jpg" crc="4248806652" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-21173x138.jpg" crc="4132790575" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-22173x138.jpg" crc="51239278" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-23173x138.jpg" crc="4087068594" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-01117x93.jpg" crc="3807994578" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-02117x93.jpg" crc="3937874561" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-03117x93.jpg" crc="2466999" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-04117x93.jpg" crc="4214539291" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-05117x93.jpg" crc="3884541539" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-06117x93.jpg" crc="4267793862" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-07117x93.jpg" crc="477770263" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-08117x93.jpg" crc="4158198334" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-09117x93.jpg" crc="3867216043" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-10117x93.jpg" crc="4253545982" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-11117x93.jpg" crc="306676150" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-12117x93.jpg" crc="4099279522" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-13117x93.jpg" crc="3980280615" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-14117x93.jpg" crc="4026984365" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-15117x93.jpg" crc="389190966" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-16117x93.jpg" crc="3869858241" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-17117x93.jpg" crc="126774975" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-18117x93.jpg" crc="325032331" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-19117x93.jpg" crc="3835975917" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-20117x93.jpg" crc="68762792" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-21117x93.jpg" crc="298855178" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-22117x93.jpg" crc="4247327648" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-23117x93.jpg" crc="3868246245" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-25.jpg" crc="255999939" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-26.jpg" crc="313657433" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-26173x138.jpg" crc="3767378884" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-25173x138.jpg" crc="488642348" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-25117x93.jpg" crc="3976333506" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-26117x93.jpg" crc="4272249786" seo="true" ref="logos">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="logos" alt=""/>
+    <file name="particle-backgrounds-1.jpg" crc="3894883647" ref="index:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="simonk0-logo.jpg" crc="459006410" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
+    <file name="logomock-u32280-fr.jpg" crc="86424831" ref="portfolio"/>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr.jpg" crc="194646973" ref="portfolio"/>
+    <file name="storymode-backgrounds-autumn-u50413-fr.jpg" crc="4026242215" ref="portfolio"/>
+    <file name="twitter-size-background-u35207-fr.jpg" crc="4124109692" ref="portfolio"/>
+    <file name="ponyage chronicles menu-01-u35233-fr.jpg" crc="229358304" ref="portfolio"/>
+    <file name="canterlot-remaster-u35372-fr.jpg" crc="3891520715" ref="portfolio"/>
+    <file name="2ui-u35351-fr.jpg" crc="393032912" ref="portfolio"/>
+    <file name="logomock-u32280-fr2.jpg" crc="360622474" ref="portfolio"/>
+    <file name="twitter-size-background-u35207-fr2.jpg" crc="113115849" ref="portfolio"/>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr2.jpg" crc="4067541844" ref="portfolio"/>
+    <file name="ponyage chronicles menu-01-u35233-fr2.jpg" crc="4074442753" ref="portfolio"/>
+    <file name="storymode-backgrounds-autumn-u50413-fr2.jpg" crc="4151835038" ref="portfolio"/>
+    <file name="2ui-u35351-fr2.jpg" crc="117454124" ref="portfolio"/>
+    <file name="canterlot-remaster-u35372-fr2.jpg" crc="68019728" ref="portfolio"/>
+    <file name="logomock.jpg" crc="3796967341" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="particle backgrounds-03.jpg" crc="91781204" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-01.jpg" crc="4080662319" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28.jpg" crc="530013082" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-02.jpg" crc="383915136" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-03.jpg" crc="499087498" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-04.jpg" crc="11780664" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-05.jpg" crc="79238348" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-06.jpg" crc="370635035" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-07.jpg" crc="3801283385" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-08.jpg" crc="3933158460" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-09.jpg" crc="3878507306" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-10.jpg" crc="493866753" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-11.jpg" crc="400764785" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-12.jpg" crc="4153805105" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-13.jpg" crc="387503866" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-14.jpg" crc="520786220" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-15.jpg" crc="460360087" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-16.jpg" crc="451352323" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27.jpg" crc="3781182000" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-29.jpg" crc="3946376833" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-17.jpg" crc="4220588650" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-18.jpg" crc="3763310501" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-19.jpg" crc="3867628624" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-25.jpg" crc="255999939" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-26.jpg" crc="313657433" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-20.jpg" crc="345024796" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-21.jpg" crc="317935831" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-22.jpg" crc="228026246" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-23.jpg" crc="386872591" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-01173x138.jpg" crc="4225274074" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28173x138.jpg" crc="406055732" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-02173x138.jpg" crc="124089712" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-03173x138.jpg" crc="4143012762" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-04173x138.jpg" crc="4216154501" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-05173x138.jpg" crc="119233937" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-06173x138.jpg" crc="518663399" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-07173x138.jpg" crc="4140093225" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-08173x138.jpg" crc="270908891" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-09173x138.jpg" crc="4022116581" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-10173x138.jpg" crc="65671700" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-11173x138.jpg" crc="4242305504" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-12173x138.jpg" crc="3914419626" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-13173x138.jpg" crc="99107927" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-14173x138.jpg" crc="66489772" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-15173x138.jpg" crc="4189549189" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-16173x138.jpg" crc="3881157755" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27173x138.jpg" crc="504798034" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-29173x138.jpg" crc="474579504" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-17173x138.jpg" crc="319152644" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-18173x138.jpg" crc="4208179789" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-19173x138.jpg" crc="3959366601" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-25173x138.jpg" crc="488642348" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-26173x138.jpg" crc="3767378884" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-20173x138.jpg" crc="4248806652" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-21173x138.jpg" crc="4132790575" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-22173x138.jpg" crc="51239278" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-23173x138.jpg" crc="4087068594" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames"/>
+    <file name="logomock-u37727-fr.jpg" crc="467411488" ref="logos"/>
     <file name="loga-01-crop-u30331.jpg" crc="279209980" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-28260x206.jpg" crc="233625799" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
     <file name="loga-02-crop-u30343.jpg" crc="141160135" seo="true" ref="logos">
@@ -356,6 +302,12 @@
     <file name="loga-16-crop-u30367.jpg" crc="527402399" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
+    <file name="loga-27260x206.jpg" crc="20730863" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-29260x206.jpg" crc="405186233" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
     <file name="loga-17-crop-u30345.jpg" crc="520651261" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
@@ -363,6 +315,12 @@
       <caption webpage="logos" alt=""/>
     </file>
     <file name="loga-19-crop-u30361.jpg" crc="416655374" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-25261x207.jpg" crc="4145509902" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-26261x207.jpg" crc="4032105017" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
     <file name="loga-20-crop-u30341.jpg" crc="4090504199" seo="true" ref="logos">
@@ -377,15 +335,89 @@
     <file name="loga-23-crop-u30373.jpg" crc="168683350" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="horsegame ui 50_sprocket hp loss and mana reg.jpg" crc="3798174560" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    <file name="loga-01117x93.jpg" crc="3807994578" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
     </file>
-    <file name="ponyage chronicles menu-01.jpg" crc="3842802295" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    <file name="loga-28117x93.jpg" crc="4260100537" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-02117x93.jpg" crc="3937874561" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-03117x93.jpg" crc="2466999" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-04117x93.jpg" crc="4214539291" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-05117x93.jpg" crc="3884541539" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-06117x93.jpg" crc="4267793862" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-07117x93.jpg" crc="477770263" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-08117x93.jpg" crc="4158198334" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-09117x93.jpg" crc="3867216043" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-10117x93.jpg" crc="4253545982" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-11117x93.jpg" crc="306676150" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-12117x93.jpg" crc="4099279522" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-13117x93.jpg" crc="3980280615" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-14117x93.jpg" crc="4026984365" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-15117x93.jpg" crc="389190966" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-16117x93.jpg" crc="3869858241" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-27117x93.jpg" crc="166895035" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-29117x93.jpg" crc="521547635" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-17117x93.jpg" crc="126774975" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-18117x93.jpg" crc="325032331" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-19117x93.jpg" crc="3835975917" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-25117x93.jpg" crc="3976333506" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-26117x93.jpg" crc="4272249786" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-20117x93.jpg" crc="68762792" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-21117x93.jpg" crc="298855178" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-22117x93.jpg" crc="4247327648" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-23117x93.jpg" crc="3868246245" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
     </file>
     <file name="twitter-size-background.jpg" crc="67675455" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
@@ -395,7 +427,6 @@
     </file>
     <file name="2.jpg" crc="4224784179" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
-      <caption webpage="personal-work" alt=""/>
     </file>
     <file name="3.jpg" crc="3794711019" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
@@ -478,7 +509,40 @@
     <file name="splash-04-crop-u34398.jpg" crc="256287759" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
+    <file name="stonicornweb.jpg" crc="4098574935" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
     <file name="stonicornlogowhite-u33248-fr.png" crc="3836634945" ref="stonicorn"/>
+    <file name="2366x206.jpg" crc="4007080679" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="3366x206.jpg" crc="325488097" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="4366x206.jpg" crc="375306216" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="5366x206.jpg" crc="3963391477" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="6366x206.jpg" crc="3988077569" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="7366x206.jpg" crc="3891535255" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="8366x206.jpg" crc="4170102620" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="9366x206.jpg" crc="214266264" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="10366x206.jpg" crc="483159259" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="11366x206.jpg" crc="4271032629" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
     <file name="2-crop-u326892.jpg" crc="4250195306" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
@@ -509,6 +573,18 @@
     <file name="11-crop-u336082.jpg" crc="105851173" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
+    <file name="splash-01366x206.jpg" crc="4214800507" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="splash-02366x206.jpg" crc="229478468" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="splash-03366x206.jpg" crc="324821067" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="splash-04366x206.jpg" crc="54449324" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
     <file name="splash-01-crop-u339992.jpg" crc="69963283" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
@@ -521,18 +597,8 @@
     <file name="splash-04-crop-u343982.jpg" crc="99390415" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
-    <file name="web 1920 – 8.jpg" crc="507131907" ref="uiux" seo="true">
-      <caption webpage="uiux" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="twitter-size-background-u35207-fr.jpg" crc="4124109692" ref="portfolio"/>
-    <file name="logomock-u32280-fr.jpg" crc="86424831" ref="portfolio"/>
-    <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr.jpg" crc="194646973" ref="portfolio"/>
-    <file name="ponyage chronicles menu-01-u35233-fr.jpg" crc="229358304" ref="portfolio"/>
-    <file name="logomock-u32280-fr2.jpg" crc="360622474" ref="portfolio"/>
-    <file name="logomock.jpg" crc="3796967341" ref="logos">
-      <caption webpage="logos" alt=""/>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg.jpg" crc="3798174560" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
     </file>
     <file name="horsegame logo black-u35959-fr.png" crc="4209929454" ref="horsegame"/>
     <file name="horsegame ui 50_sprocket hp loss and mana reg1032x581.jpg" crc="71859024" seo="true" ref="horsegame">
@@ -625,506 +691,10 @@
     <file name="horsegame menu 10_saves-crop-u36937.jpg" crc="3856970246" seo="true" ref="horsegame">
       <caption webpage="horsegame" alt=""/>
     </file>
-    <file name="horsegame logo black-u35959-fr2.png" crc="295941373" ref="horsegame"/>
-    <file name="horsegame ui 50_sprocket hp loss and mana reg-crop-u359362.jpg" crc="4071487668" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame ui 50_dialogue tiny-crop-u364632.jpg" crc="375054258" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame ui 50_enemy hp loss-crop-u364942.jpg" crc="3834630935" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame ui 50_main all-crop-u365252.jpg" crc="4230592976" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame ui 50_mian low hp-crop-u365562.jpg" crc="49769805" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_credits-crop-u366582.jpg" crc="283775038" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_exit-crop-u366892.jpg" crc="3766674814" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_main copy 2-crop-u367202.jpg" crc="90761049" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_main copy 3-crop-u367512.jpg" crc="4217728991" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_main copy 4-crop-u367822.jpg" crc="3776571555" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_main copy-crop-u368132.jpg" crc="4227570933" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_main-crop-u368442.jpg" crc="4069000263" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_new game-crop-u368752.jpg" crc="3760962298" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_options-crop-u369062.jpg" crc="4281680978" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="horsegame menu 10_saves-crop-u369372.jpg" crc="4275945858" seo="true" ref="horsegame">
-      <caption webpage="horsegame" alt=""/>
-    </file>
-    <file name="ponyage-chronicles-logo-2.png" crc="62633867" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-01.png" crc="482265950" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-02.png" crc="337747575" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-03.png" crc="377582455" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-01-crop-u37357.png" crc="4196009569" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-02-crop-u37583.png" crc="4227740352" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-03-crop-u37614.png" crc="211946904" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-011032x581.jpg" crc="40543011" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-02.jpg" crc="4170277086" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="gui.jpg" crc="375913672" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-01-crop-u36212.jpg" crc="472815245" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-02-crop-u37666.jpg" crc="4198160580" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="gui-crop-u37705.jpg" crc="219704940" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-01-u36233-fr.jpg" crc="4113125359" ref="ponyage-chronicles"/>
-    <file name="ponyage-chronicles-logo-2-u36131-fr.png" crc="3857726077" ref="ponyage-chronicles"/>
-    <file name="ponyage chronicles menu-01-crop-u362122.jpg" crc="242507134" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="ponyage chronicles menu-02-crop-u376662.jpg" crc="146014492" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="gui-crop-u377052.jpg" crc="418394180" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-01-crop-u373572.png" crc="291099752" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-02-crop-u375832.png" crc="177097475" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="assetpac-03-crop-u376142.png" crc="4002376087" seo="true" ref="ponyage-chronicles">
-      <caption webpage="ponyage-chronicles" alt=""/>
-    </file>
-    <file name="web 1920 – 2.jpg" crc="3800975557" ref="uiux" seo="true">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1.jpg" crc="2191567" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 6.jpg" crc="4171176523" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 22.jpg" crc="246557568" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 12.jpg" crc="513094570" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 7.jpg" crc="390301254" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 3.jpg" crc="4091391412" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 4.jpg" crc="4175398362" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="storymode-website-idea.jpg" crc="3862109222" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u38015.jpg" crc="4208757655" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 6-crop-u38976.jpg" crc="486463884" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 8-crop-u39038.jpg" crc="3858270064" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 2-crop-u38945.jpg" crc="516447691" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u39175.jpg" crc="4054560589" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 2-crop-u39206.jpg" crc="330754898" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 7-crop-u39007.jpg" crc="4001906262" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 3-crop-u39237.jpg" crc="3928382308" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 4-crop-u39268.jpg" crc="164851613" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="storymode-website-idea-crop-u39307.jpg" crc="214223613" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u380152.jpg" crc="3889679937" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 6-crop-u389762.jpg" crc="521916998" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 8-crop-u390382.jpg" crc="4194909300" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 2-crop-u389452.jpg" crc="504462571" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u391752.jpg" crc="3758261151" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 2-crop-u392062.jpg" crc="3758734549" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 7-crop-u390072.jpg" crc="206298577" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 3-crop-u392372.jpg" crc="4108691476" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 4-crop-u392682.jpg" crc="178516952" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="storymode-website-idea-crop-u393072.jpg" crc="4178064549" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="bubbles unmarked.png" crc="3926260164" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="bar.jpg" crc="386148453" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="blur wallpaperb — kopia.jpg" crc="3793444866" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="xd.png" crc="46750335" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="fala efekt.png" crc="11415287" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="forest_a.png" crc="268555410" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry low-poly wallpaper.jpg" crc="4031765379" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry nexus low-poly.png" crc="3915456867" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="garden love.jpg" crc="115980264" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="halo poster preview.jpg" crc="3779243355" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="koło.jpg" crc="4167076375" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="long way ahead2.jpg" crc="312540109" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="luna na wzgórzu-01.jpg" crc="403447211" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="ori.jpg" crc="364275621" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="rainbow wallpaper 4k.jpg" crc="501774311" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="1.jpg" crc="190242903" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="neonb.jpg" crc="4186965732" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="sarna-01.jpg" crc="3769633912" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="preview.jpg" crc="4014685231" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="through eternity.jpg" crc="3771960191" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzóra.jpg" crc="3949356896" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórb.png" crc="218201891" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórc.jpg" crc="428787155" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="bubbles unmarked184x130.png" crc="3911886544" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="bar195x130.jpg" crc="477202139" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="blur wallpaperb — kopia-crop-u39724.jpg" crc="432873924" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="xd-crop-u39802.png" crc="458235481" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="fala efekt-crop-u39841.png" crc="4083476753" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="forest_a184x130.png" crc="246081572" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry low-poly wallpaper184x130.jpg" crc="332069397" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry nexus low-poly186x130.png" crc="4251134824" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="garden love195x130.jpg" crc="3914790847" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="halo poster preview195x130.jpg" crc="338941564" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="koło-crop-u40072.jpg" crc="4116893831" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="long way ahead2-crop-u40111.jpg" crc="3927862744" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="luna na wzgórzu-01-crop-u40150.jpg" crc="3812948073" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="ori184x130.jpg" crc="4243108429" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="rainbow wallpaper 4k-crop-u40306.jpg" crc="3890410451" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="1-crop-u40352.jpg" crc="4183500946" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="2-crop-u40383.jpg" crc="4075256190" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="neonb200x130.jpg" crc="414206950" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="sarna-01-crop-u40422.jpg" crc="4288507077" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="preview174x130.jpg" crc="4045614551" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="through eternity-crop-u40500.jpg" crc="75899752" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzóra-crop-u40553.jpg" crc="291552299" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórb173x147.png" crc="366459186" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórc-crop-u40615.jpg" crc="3833667027" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="bubbles unmarked125x88.png" crc="4173657764" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="bar132x88.jpg" crc="4134179415" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="blur wallpaperb — kopia-crop-u397242.jpg" crc="321163701" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="xd-crop-u398022.png" crc="106393604" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="fala efekt-crop-u398412.png" crc="3831867170" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="forest_a125x88.png" crc="275961523" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry low-poly wallpaper125x88.jpg" crc="446608782" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="góry nexus low-poly126x88.png" crc="88691373" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="garden love132x88.jpg" crc="363622802" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="halo poster preview132x88.jpg" crc="3846756603" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="koło-crop-u400722.jpg" crc="3888061109" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="long way ahead2-crop-u401112.jpg" crc="3868358878" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="luna na wzgórzu-01-crop-u401502.jpg" crc="3997562707" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="ori125x88.jpg" crc="4100536249" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="rainbow wallpaper 4k-crop-u403062.jpg" crc="239700142" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="1-crop-u403522.jpg" crc="4200252993" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="2-crop-u403832.jpg" crc="490763568" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="neonb136x88.jpg" crc="4229538679" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="sarna-01-crop-u404222.jpg" crc="519623952" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="preview118x88.jpg" crc="4030514453" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="through eternity-crop-u405002.jpg" crc="3893226291" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzóra-crop-u405532.jpg" crc="188229291" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórb117x99.png" crc="4136935609" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="wzórc-crop-u406152.jpg" crc="4089236732" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="stonicornweb.jpg" crc="4098574935" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
     <file name="horsegameweb.jpg" crc="4250738377" ref="horsegame">
       <caption webpage="horsegame" alt=""/>
     </file>
-    <file name="twitter-size-background-u35207-fr2.jpg" crc="113115849" ref="portfolio"/>
-    <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr2.jpg" crc="4067541844" ref="portfolio"/>
-    <file name="ponyage chronicles menu-01-u35233-fr2.jpg" crc="4074442753" ref="portfolio"/>
-    <file name="1ui.jpg" crc="4006405531" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="2ui.jpg" crc="4184495541" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="1ui132x88.jpg" crc="506948768" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="2ui132x88.jpg" crc="428227174" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="2ui-u35351-fr.jpg" crc="393032912" ref="portfolio"/>
-    <file name="2ui-u35351-fr2.jpg" crc="117454124" ref="portfolio"/>
-    <file name="particle backgrounds-03.jpg" crc="91781204" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work">
-      <caption webpage="personal-work" alt=""/>
-      <caption webpage="logos" alt=""/>
-      <caption webpage="stonicorn" alt=""/>
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="1ui195x130.jpg" crc="4090271234" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="2ui195x130.jpg" crc="3939967312" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="2ui899x599.jpg" crc="3991511540" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u45995.jpg" crc="366624455" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 13.jpg" crc="336745528" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="web 1920 – 1-crop-u459952.jpg" crc="4233247194" seo="true" ref="uiux">
-      <caption webpage="uiux" alt=""/>
-    </file>
-    <file name="loga-25261x207.jpg" crc="4145509902" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-26261x207.jpg" crc="4032105017" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="2366x206.jpg" crc="4007080679" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="3366x206.jpg" crc="325488097" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="4366x206.jpg" crc="375306216" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="5366x206.jpg" crc="3963391477" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="6366x206.jpg" crc="3988077569" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="7366x206.jpg" crc="3891535255" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="8366x206.jpg" crc="4170102620" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="9366x206.jpg" crc="214266264" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="10366x206.jpg" crc="483159259" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="11366x206.jpg" crc="4271032629" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="splash-01366x206.jpg" crc="4214800507" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="splash-02366x206.jpg" crc="229478468" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="splash-03366x206.jpg" crc="324821067" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="splash-04366x206.jpg" crc="54449324" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
+    <file name="horsegame logo black-u35959-fr2.png" crc="295941373" ref="horsegame"/>
     <file name="horsegame ui 50_sprocket hp loss and mana reg355x200.jpg" crc="80026107" seo="true" ref="horsegame">
       <caption webpage="horsegame" alt=""/>
     </file>
@@ -1170,6 +740,102 @@
     <file name="horsegame menu 10_saves366x206.jpg" crc="4218679210" seo="true" ref="horsegame">
       <caption webpage="horsegame" alt=""/>
     </file>
+    <file name="horsegame ui 50_sprocket hp loss and mana reg-crop-u359362.jpg" crc="4071487668" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame ui 50_dialogue tiny-crop-u364632.jpg" crc="375054258" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame ui 50_enemy hp loss-crop-u364942.jpg" crc="3834630935" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame ui 50_main all-crop-u365252.jpg" crc="4230592976" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame ui 50_mian low hp-crop-u365562.jpg" crc="49769805" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_credits-crop-u366582.jpg" crc="283775038" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_exit-crop-u366892.jpg" crc="3766674814" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 2-crop-u367202.jpg" crc="90761049" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 3-crop-u367512.jpg" crc="4217728991" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy 4-crop-u367822.jpg" crc="3776571555" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main copy-crop-u368132.jpg" crc="4227570933" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_main-crop-u368442.jpg" crc="4069000263" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_new game-crop-u368752.jpg" crc="3760962298" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_options-crop-u369062.jpg" crc="4281680978" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="horsegame menu 10_saves-crop-u369372.jpg" crc="4275945858" seo="true" ref="horsegame">
+      <caption webpage="horsegame" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01.jpg" crc="3842802295" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage-chronicles-logo-2.png" crc="62633867" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-01.png" crc="482265950" seo="true" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-02.png" crc="337747575" seo="true" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-03.png" crc="377582455" seo="true" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-01-crop-u37357.png" crc="4196009569" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-02-crop-u37583.png" crc="4227740352" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-03-crop-u37614.png" crc="211946904" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-011032x581.jpg" crc="40543011" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-02.jpg" crc="4170277086" seo="true" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="gui.jpg" crc="375913672" seo="true" ref="ponyage-chronicles:ponygames">
+      <caption webpage="ponygames" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01-crop-u36212.jpg" crc="472815245" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-02-crop-u37666.jpg" crc="4198160580" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="gui-crop-u37705.jpg" crc="219704940" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01-u36233-fr.jpg" crc="4113125359" ref="ponyage-chronicles:ponygames"/>
+    <file name="ponyage-chronicles-logo-2-u36131-fr.png" crc="3857726077" ref="ponyage-chronicles:ponygames"/>
     <file name="assetpac-01355x200.png" crc="4286113975" seo="true" ref="ponyage-chronicles">
       <caption webpage="ponyage-chronicles" alt=""/>
     </file>
@@ -1177,6 +843,15 @@
       <caption webpage="ponyage-chronicles" alt=""/>
     </file>
     <file name="assetpac-03355x200.png" crc="4262991302" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-01-crop-u373572.png" crc="291099752" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-02-crop-u375832.png" crc="177097475" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="assetpac-03-crop-u376142.png" crc="4002376087" seo="true" ref="ponyage-chronicles">
       <caption webpage="ponyage-chronicles" alt=""/>
     </file>
     <file name="ponyage chronicles menu-01355x200.jpg" crc="4247882082" seo="true" ref="ponyage-chronicles">
@@ -1187,6 +862,96 @@
     </file>
     <file name="gui366x206.jpg" crc="3920665376" seo="true" ref="ponyage-chronicles">
       <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01-crop-u362122.jpg" crc="242507134" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-02-crop-u376662.jpg" crc="146014492" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="gui-crop-u377052.jpg" crc="418394180" seo="true" ref="ponyage-chronicles">
+      <caption webpage="ponyage-chronicles" alt=""/>
+    </file>
+    <file name="2ui.jpg" crc="4184495541" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u38015.jpg" crc="4208757655" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="storymode-website-idea-crop-u39307.jpg" crc="214223613" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 6-crop-u38976.jpg" crc="486463884" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u45995.jpg" crc="366624455" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 8-crop-u39038.jpg" crc="3858270064" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="1ui195x130.jpg" crc="4090271234" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u38945.jpg" crc="516447691" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="2ui195x130.jpg" crc="3939967312" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u39175.jpg" crc="4054560589" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u39206.jpg" crc="330754898" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 7-crop-u39007.jpg" crc="4001906262" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 3-crop-u39237.jpg" crc="3928382308" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 4-crop-u39268.jpg" crc="164851613" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1.jpg" crc="2191567" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="storymode-website-idea.jpg" crc="3862109222" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 6.jpg" crc="4171176523" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 12.jpg" crc="513094570" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 8.jpg" crc="507131907" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="1ui.jpg" crc="4006405531" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 2.jpg" crc="3800975557" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="2ui899x599.jpg" crc="3991511540" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 13.jpg" crc="336745528" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 22.jpg" crc="246557568" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 7.jpg" crc="390301254" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 3.jpg" crc="4091391412" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 4.jpg" crc="4175398362" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
     </file>
     <file name="web 1920 – 1355x200.jpg" crc="4050635894" seo="true" ref="uiux">
       <caption webpage="uiux" alt=""/>
@@ -1227,7 +992,227 @@
     <file name="web 1920 – 4355x200.jpg" crc="271935698" seo="true" ref="uiux">
       <caption webpage="uiux" alt=""/>
     </file>
+    <file name="web 1920 – 1-crop-u380152.jpg" crc="3889679937" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="storymode-website-idea-crop-u393072.jpg" crc="4178064549" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 6-crop-u389762.jpg" crc="521916998" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u459952.jpg" crc="4233247194" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 8-crop-u390382.jpg" crc="4194909300" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="1ui132x88.jpg" crc="506948768" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u389452.jpg" crc="504462571" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="2ui132x88.jpg" crc="428227174" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 1-crop-u391752.jpg" crc="3758261151" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 2-crop-u392062.jpg" crc="3758734549" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 7-crop-u390072.jpg" crc="206298577" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 3-crop-u392372.jpg" crc="4108691476" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="web 1920 – 4-crop-u392682.jpg" crc="178516952" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="canterlot-remaster.jpg" crc="3889751944" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="bubbles unmarked.png" crc="3926260164" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="canterlot-remaster1032x581.jpg" crc="219391700" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="bar.jpg" crc="386148453" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="blur wallpaperb — kopia.jpg" crc="3793444866" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="xd.png" crc="46750335" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="fala efekt.png" crc="11415287" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="forest_a.png" crc="268555410" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry low-poly wallpaper.jpg" crc="4031765379" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry nexus low-poly.png" crc="3915456867" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="garden love.jpg" crc="115980264" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="halo poster preview.jpg" crc="3779243355" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style.jpg" crc="466377850" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="koło.jpg" crc="4167076375" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="long way ahead2.jpg" crc="312540109" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna na wzgórzu-01.jpg" crc="403447211" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna-by-graphic-edit.jpg" crc="97565960" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="rainbow wallpaper 4k.jpg" crc="501774311" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="1.jpg" crc="190242903" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="22.jpg" crc="318265305" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="neonb.jpg" crc="4186965732" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="sarna-01.jpg" crc="3769633912" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="preview.jpg" crc="4014685231" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies.jpg" crc="3949882697" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="through eternity.jpg" crc="3771960191" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzóra.jpg" crc="3949356896" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórb.png" crc="218201891" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórc.jpg" crc="428787155" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_wallpaper.png" crc="284460528" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_front.jpg" crc="22748651" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="bubbles unmarked184x130.png" crc="3911886544" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="canterlot-remaster-crop-u48102.jpg" crc="389767335" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="bar195x130.jpg" crc="477202139" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="blur wallpaperb — kopia-crop-u39724.jpg" crc="432873924" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="xd-crop-u39802.png" crc="458235481" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="fala efekt-crop-u39841.png" crc="4083476753" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="forest_a184x130.png" crc="246081572" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry low-poly wallpaper184x130.jpg" crc="332069397" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry nexus low-poly186x130.png" crc="4251134824" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="garden love195x130.jpg" crc="3914790847" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="halo poster preview195x130.jpg" crc="338941564" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style-crop-u50686.jpg" crc="140657613" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="koło-crop-u40072.jpg" crc="4116893831" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="long way ahead2-crop-u40111.jpg" crc="3927862744" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna na wzgórzu-01-crop-u40150.jpg" crc="3812948073" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna-by-graphic-edit-crop-u50647.jpg" crc="3927650463" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="rainbow wallpaper 4k-crop-u40306.jpg" crc="3890410451" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="1-crop-u40352.jpg" crc="4183500946" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="2-crop-u40383.jpg" crc="4075256190" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="neonb200x130.jpg" crc="414206950" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="sarna-01-crop-u40422.jpg" crc="4288507077" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="preview174x130.jpg" crc="4045614551" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-crop-u50725.jpg" crc="536734109" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="through eternity-crop-u40500.jpg" crc="75899752" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzóra-crop-u40553.jpg" crc="291552299" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórb173x147.png" crc="366459186" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórc-crop-u40615.jpg" crc="3833667027" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_wallpaper-crop-u50798.png" crc="4264274087" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_front-crop-u50837.jpg" crc="4117439656" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="canterlot-remaster-u38392-fr.jpg" crc="3808914192" ref="personal-work"/>
     <file name="bubbles unmarked330x233.png" crc="4182799487" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="canterlot-remaster400x225.jpg" crc="44437473" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="bar349x233.jpg" crc="4028916797" seo="true" ref="personal-work">
@@ -1257,6 +1242,9 @@
     <file name="halo poster preview349x233.jpg" crc="197959740" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
+    <file name="monday-melodies-vintage-style400x225.jpg" crc="3894174785" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
     <file name="koło233x233.jpg" crc="52640248" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -1266,7 +1254,7 @@
     <file name="luna na wzgórzu-01431x243.jpg" crc="4268025471" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="ori329x233.jpg" crc="519772225" seo="true" ref="personal-work">
+    <file name="luna-by-graphic-edit400x225.jpg" crc="232261625" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="rainbow wallpaper 4k431x243.jpg" crc="3796110045" seo="true" ref="personal-work">
@@ -1287,6 +1275,9 @@
     <file name="preview310x233.jpg" crc="195772589" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
+    <file name="monday-melodies400x225.jpg" crc="203099685" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
     <file name="through eternity233x233.jpg" crc="154747646" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -1299,116 +1290,214 @@
     <file name="wzórc233x233.jpg" crc="4109429660" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="logomock-u37727-fr.jpg" crc="467411488" ref="logos"/>
-    <file name="loga-28.jpg" crc="530013082" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-27.jpg" crc="3781182000" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-28173x138.jpg" crc="406055732" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-27173x138.jpg" crc="504798034" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-28260x206.jpg" crc="233625799" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-27260x206.jpg" crc="20730863" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-28117x93.jpg" crc="4260100537" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-27117x93.jpg" crc="166895035" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-29.jpg" crc="3946376833" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-29173x138.jpg" crc="474579504" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-29260x206.jpg" crc="405186233" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="loga-29117x93.jpg" crc="521547635" seo="true" ref="logos">
-      <caption webpage="logos" alt=""/>
-    </file>
-    <file name="canterlot-remaster-u35372-fr.jpg" crc="3891520715" ref="portfolio"/>
-    <file name="canterlot-remaster-u35372-fr2.jpg" crc="68019728" ref="portfolio"/>
-    <file name="canterlot-remaster.jpg" crc="3889751944" ref="personal-work">
+    <file name="the highest tower 11_wallpaper400x233.png" crc="280488817" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="canterlot-remaster1032x581.jpg" crc="219391700" seo="true" ref="personal-work">
+    <file name="the highest tower 11_front250x250.jpg" crc="4014403493" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="canterlot-remaster-crop-u48102.jpg" crc="389767335" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="canterlot-remaster-u38392-fr.jpg" crc="3808914192" ref="personal-work"/>
-    <file name="canterlot-remaster400x225.jpg" crc="44437473" seo="true" ref="personal-work">
+    <file name="bubbles unmarked125x88.png" crc="4173657764" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="canterlot-remaster-crop-u481022.jpg" crc="449230023" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="particle-backgrounds-1.jpg" crc="3894883647" ref="index:portfolio:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="22.jpg" crc="318265305" seo="true" ref="personal-work">
+    <file name="bar132x88.jpg" crc="4134179415" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
+    <file name="blur wallpaperb — kopia-crop-u397242.jpg" crc="321163701" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="xd-crop-u398022.png" crc="106393604" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="fala efekt-crop-u398412.png" crc="3831867170" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="forest_a125x88.png" crc="275961523" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry low-poly wallpaper125x88.jpg" crc="446608782" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="góry nexus low-poly126x88.png" crc="88691373" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="garden love132x88.jpg" crc="363622802" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="halo poster preview132x88.jpg" crc="3846756603" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style-crop-u506862.jpg" crc="462830591" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="koło-crop-u400722.jpg" crc="3888061109" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="long way ahead2-crop-u401112.jpg" crc="3868358878" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna na wzgórzu-01-crop-u401502.jpg" crc="3997562707" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="luna-by-graphic-edit-crop-u506472.jpg" crc="4210366996" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="rainbow wallpaper 4k-crop-u403062.jpg" crc="239700142" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="1-crop-u403522.jpg" crc="4200252993" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="2-crop-u403832.jpg" crc="490763568" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="neonb136x88.jpg" crc="4229538679" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="sarna-01-crop-u404222.jpg" crc="519623952" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="preview118x88.jpg" crc="4030514453" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-crop-u507252.jpg" crc="367328616" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="through eternity-crop-u405002.jpg" crc="3893226291" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzóra-crop-u405532.jpg" crc="188229291" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórb117x99.png" crc="4136935609" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="wzórc-crop-u406152.jpg" crc="4089236732" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_wallpaper-crop-u507982.png" crc="4080882250" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="the highest tower 11_front-crop-u508372.jpg" crc="3882277797" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-autumn.jpg" crc="3842443898" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="logo.png" crc="3965593185" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-autumn1032x581.jpg" crc="5957365" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="favicon.png" crc="366479121" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds.jpg" crc="3898184810" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-spring.jpg" crc="3827083296" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-autumn-crop-u48968.jpg" crc="4054292210" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="favicon-crop-u49927.png" crc="3972064502" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-crop-u49958.jpg" crc="4094221282" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-spring-crop-u49989.jpg" crc="3767224949" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="host.svg" crc="4167732191" ref="storymode"/>
+    <file name="host_poster_u50260.png" crc="4132628038" ref="storymode"/>
+    <file name="quick match.svg" crc="4009301725" ref="storymode"/>
+    <file name="quick match_poster_u50322.png" crc="274618323" ref="storymode"/>
+    <file name="join.svg" crc="4205125047" ref="storymode"/>
+    <file name="join_poster_u50314.png" crc="138090026" ref="storymode"/>
+    <file name="logo-u48953-fr.png" crc="265293807" ref="storymode"/>
+    <file name="storymode-backgrounds-autumn356x201.jpg" crc="4171718535" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="favicon206x206.png" crc="485888812" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds356x201.jpg" crc="3910810817" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-spring356x201.jpg" crc="4231402608" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-autumn-crop-u489682.jpg" crc="462354574" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="favicon-crop-u499272.png" crc="3784458163" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-crop-u499582.jpg" crc="4257469185" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="storymode-backgrounds-spring-crop-u499892.jpg" crc="507566004" seo="true" ref="storymode">
+      <caption webpage="storymode" alt=""/>
+    </file>
+    <file name="assetpac-01-crop-u49232.png" crc="4196009569" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="assetpac-02-crop-u49230.png" crc="4227740352" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="assetpac-03-crop-u49228.png" crc="211946904" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01-crop-u49270.jpg" crc="472815245" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-02-crop-u49272.jpg" crc="4198160580" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="gui-crop-u49274.jpg" crc="219704940" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="assetpac-01-crop-u492322.png" crc="291099752" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="assetpac-02-crop-u492302.png" crc="177097475" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="assetpac-03-crop-u492282.png" crc="4002376087" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-01-crop-u492702.jpg" crc="242507134" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="ponyage chronicles menu-02-crop-u492722.jpg" crc="146014492" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="gui-crop-u492742.jpg" crc="418394180" seo="true" ref="ponygames">
+      <caption webpage="ponygames" alt=""/>
+    </file>
+    <file name="background.jpg" crc="466410876" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="twitter-size-background-u51331-fr.jpg" crc="82813655" ref="contact"/>
+    <file name="storymode-backgrounds-autumn-u51330-fr.jpg" crc="3969759391" ref="contact"/>
+    <file name="twitter-size-background-u51331-fr2.jpg" crc="307081477" ref="contact"/>
+    <file name="storymode-backgrounds-autumn-u51330-fr2.jpg" crc="178611731" ref="contact"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3967739347" ref="index"/>
-    <file name="master_a-wzorcowa.css" crc="3939502140" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
-    <file name="contact.css" crc="498895198" ref="contact"/>
-    <file name="portfolio.css" crc="3922311359" ref="portfolio"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="369203372" ref="index:contact:portfolio:logos:stonicorn:personal-work:ponyage-chronicles:uiux:horsegame"/>
-    <file name="nomq_index.css" crc="4043891196" ref="index"/>
-    <file name="nomq_contact.css" crc="32811631" ref="contact"/>
-    <file name="nomq_portfolio.css" crc="3993751306" ref="portfolio"/>
-    <file name="logos.css" crc="211878862" ref="logos"/>
-    <file name="nomq_logos.css" crc="3782862876" ref="logos"/>
-    <file name="stonicorn.css" crc="461684603" ref="stonicorn"/>
-    <file name="nomq_stonicorn.css" crc="404788595" ref="stonicorn"/>
-    <file name="personal-work.css" crc="381992821" ref="personal-work"/>
-    <file name="nomq_personal-work.css" crc="4189464399" ref="personal-work"/>
-    <file name="ponyage-chronicles.css" crc="499952677" ref="ponyage-chronicles"/>
-    <file name="nomq_ponyage-chronicles.css" crc="271552284" ref="ponyage-chronicles"/>
-    <file name="uiux.css" crc="16244898" ref="uiux"/>
-    <file name="nomq_uiux.css" crc="4208437869" ref="uiux"/>
-    <file name="horsegame.css" crc="325184854" ref="horsegame"/>
-    <file name="nomq_horsegame.css" crc="4271337943" ref="horsegame"/>
-  </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="museutils.js" crc="340535759" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="require.js" crc="7928878" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:contact"/>
-    <file name="webpro.js" crc="4059564322" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="touchswipe.js" crc="4075097462" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:contact:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="contact"/>
-  </folder>
-  <file name="index.html" crc="3805078637" seo="true" mt="1553117690200" redirect="true"/>
-  <file name="portfolio.html" crc="4128630644" seo="true" mt="1552928721240" redirect="true"/>
-  <file name="contact.html" crc="3915995453" seo="true" mt="1553117145629" redirect="true"/>
-  <file name="logos.html" crc="4131078401" seo="true" mt="1552928721240" redirect="true"/>
-  <file name="stonicorn.html" crc="36148187" seo="true" mt="1552928766095" redirect="true"/>
-  <file name="horsegame.html" crc="471093155" seo="true" mt="1552928759068" redirect="true"/>
-  <file name="ponyage-chronicles.html" crc="41637111" seo="true" mt="1552928749559" redirect="true"/>
-  <file name="uiux.html" crc="3995612868" seo="true" mt="1552928721240" redirect="true"/>
-  <file name="personal-work.html" crc="4047045559" seo="true" mt="1552928721240" redirect="true"/>
+  <file name="index.html" crc="501992678" seo="true" mt="1553259471029" redirect="true"/>
+  <file name="portfolio.html" crc="479221317" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="logos.html" crc="4261918157" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="stonicorn.html" crc="3841451766" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="horsegame.html" crc="4048142859" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="ponyage-chronicles.html" crc="171490595" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="uiux.html" crc="4237541777" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="personal-work.html" crc="3923313173" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="storymode.html" crc="319285073" seo="true" mt="1553259471169" redirect="true"/>
+  <file name="ponygames.html" crc="3871936496" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="contact.html" crc="132046994" seo="true" mt="1553259593165" redirect="true"/>
 </manifest>

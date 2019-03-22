@@ -2,29 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SiMonk0.github.io/index.html</loc>
-    <lastmod>2019-03-20</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-03-20</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-28.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-02.jpg</image:loc>
@@ -72,6 +69,12 @@
       <image:loc>http://SiMonk0.github.io/images/loga-16.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-17.jpg</image:loc>
     </image:image>
     <image:image>
@@ -79,6 +82,12 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-26.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-20.jpg</image:loc>
@@ -94,6 +103,9 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-01173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-28173x138.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-02173x138.jpg</image:loc>
@@ -141,6 +153,12 @@
       <image:loc>http://SiMonk0.github.io/images/loga-16173x138.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-27173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-17173x138.jpg</image:loc>
     </image:image>
     <image:image>
@@ -148,6 +166,12 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-19173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-25173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-26173x138.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-20173x138.jpg</image:loc>
@@ -162,94 +186,10 @@
       <image:loc>http://SiMonk0.github.io/images/loga-23173x138.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-01117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-02117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-03117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-04117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-05117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-06117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-07117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-08117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-09117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-10117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-11117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-12117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-13117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-14117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-15117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-16117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-17117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-18117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-19117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-20117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-21117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-22117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-23117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-25.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-26.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-26173x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-25173x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-25117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-26117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-01-crop-u30331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-28260x206.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-02-crop-u30343.jpg</image:loc>
@@ -297,6 +237,12 @@
       <image:loc>http://SiMonk0.github.io/images/loga-16-crop-u30367.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-27260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-29260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-17-crop-u30345.jpg</image:loc>
     </image:image>
     <image:image>
@@ -304,6 +250,12 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-19-crop-u30361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-25261x207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-26261x207.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-20-crop-u30341.jpg</image:loc>
@@ -318,51 +270,93 @@
       <image:loc>http://SiMonk0.github.io/images/loga-23-crop-u30373.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-25261x207.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-26261x207.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-28.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-27.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-28173x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-27173x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-28260x206.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-27260x206.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/loga-01117x93.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-28117x93.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-02117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-03117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-04117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-05117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-06117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-07117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-08117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-09117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-10117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-11117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-12117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-13117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-14117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-15117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-16117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-27117x93.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-29.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-29173x138.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/loga-29260x206.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-29117x93.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-17117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-18117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-19117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-25117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-26117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-20117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-21117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-22117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-23117x93.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -450,48 +444,6 @@
       <image:loc>http://SiMonk0.github.io/images/splash-04-crop-u34398.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2-crop-u326892.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/3-crop-u333602.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/4-crop-u333912.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/5-crop-u334222.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/6-crop-u334532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/7-crop-u334842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/8-crop-u335152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/9-crop-u335462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/10-crop-u335772.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/11-crop-u336082.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/splash-01-crop-u339992.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/splash-02-crop-u343362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/splash-03-crop-u343672.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/splash-04-crop-u343982.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/2366x206.jpg</image:loc>
     </image:image>
     <image:image>
@@ -522,6 +474,36 @@
       <image:loc>http://SiMonk0.github.io/images/11366x206.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2-crop-u326892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/3-crop-u333602.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/4-crop-u333912.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/5-crop-u334222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/6-crop-u334532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/7-crop-u334842.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/8-crop-u335152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/9-crop-u335462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/10-crop-u335772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/11-crop-u336082.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/splash-01366x206.jpg</image:loc>
     </image:image>
     <image:image>
@@ -533,10 +515,22 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/splash-04366x206.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/splash-01-crop-u339992.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/splash-02-crop-u343362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/splash-03-crop-u343672.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/splash-04-crop-u343982.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/horsegame.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -630,51 +624,6 @@
       <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_saves-crop-u36937.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_sprocket%20hp%20loss%20and%20mana%20reg-crop-u359362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_dialogue%20tiny-crop-u364632.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_enemy%20hp%20loss-crop-u364942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_main%20all-crop-u365252.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_mian%20low%20hp-crop-u365562.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_credits-crop-u366582.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_exit-crop-u366892.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%202-crop-u367202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%203-crop-u367512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%204-crop-u367822.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy-crop-u368132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main-crop-u368442.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_new%20game-crop-u368752.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_options-crop-u369062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_saves-crop-u369372.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_sprocket%20hp%20loss%20and%20mana%20reg355x200.jpg</image:loc>
     </image:image>
     <image:image>
@@ -719,10 +668,55 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_saves366x206.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_sprocket%20hp%20loss%20and%20mana%20reg-crop-u359362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_dialogue%20tiny-crop-u364632.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_enemy%20hp%20loss-crop-u364942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_main%20all-crop-u365252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20ui%2050_mian%20low%20hp-crop-u365562.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_credits-crop-u366582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_exit-crop-u366892.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%202-crop-u367202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%203-crop-u367512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy%204-crop-u367822.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main%20copy-crop-u368132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_main-crop-u368442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_new%20game-crop-u368752.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_options-crop-u369062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/horsegame%20menu%2010_saves-crop-u369372.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -762,13 +756,13 @@
       <image:loc>http://SiMonk0.github.io/images/gui-crop-u37705.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u362122.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-01355x200.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u376662.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-02355x200.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/gui-crop-u377052.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-03355x200.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/assetpac-01-crop-u373572.png</image:loc>
@@ -780,15 +774,6 @@
       <image:loc>http://SiMonk0.github.io/images/assetpac-03-crop-u376142.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-01355x200.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-02355x200.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-03355x200.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01355x200.jpg</image:loc>
     </image:image>
     <image:image>
@@ -797,53 +782,44 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/gui366x206.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u362122.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u376662.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/gui-crop-u377052.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2022.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u38015.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u39307.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206-crop-u38976.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u45995.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u39038.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u38945.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui195x130.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u39175.jpg</image:loc>
@@ -861,64 +837,43 @@
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204-crop-u39268.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u39307.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u380152.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206-crop-u389762.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u390382.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2012.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u389452.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u391752.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u392062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207-crop-u390072.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203-crop-u392372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204-crop-u392682.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u393072.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/1ui.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/1ui132x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2ui132x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/1ui195x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2ui195x130.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/2ui899x599.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u45995.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2013.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u459952.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201355x200.jpg</image:loc>
@@ -959,14 +914,56 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204355x200.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u380152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-website-idea-crop-u393072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206-crop-u389762.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u459952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u390382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1ui132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u389452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2ui132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u391752.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202-crop-u392062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%207-crop-u390072.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%203-crop-u392372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204-crop-u392682.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster1032x581.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bar.jpg</image:loc>
@@ -996,6 +993,9 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1005,13 +1005,16 @@
       <image:loc>http://SiMonk0.github.io/images/luna%20na%20wzg%C3%B3rzu-01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ori.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/luna-by-graphic-edit.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/rainbow%20wallpaper%204k.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/22.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/neonb.jpg</image:loc>
@@ -1021,6 +1024,9 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/preview.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity.jpg</image:loc>
@@ -1035,7 +1041,16 @@
       <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_wallpaper.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_front.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked184x130.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u48102.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bar195x130.jpg</image:loc>
@@ -1065,6 +1080,9 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview195x130.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u50686.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o-crop-u40072.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1074,7 +1092,7 @@
       <image:loc>http://SiMonk0.github.io/images/luna%20na%20wzg%C3%B3rzu-01-crop-u40150.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ori184x130.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/luna-by-graphic-edit-crop-u50647.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/rainbow%20wallpaper%204k-crop-u40306.jpg</image:loc>
@@ -1095,6 +1113,9 @@
       <image:loc>http://SiMonk0.github.io/images/preview174x130.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u50725.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity-crop-u40500.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1107,79 +1128,16 @@
       <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc-crop-u40615.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked125x88.png</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_wallpaper-crop-u50798.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/bar132x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/blur%20wallpaperb%20%E2%80%94%20kopia-crop-u397242.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/xd-crop-u398022.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/fala%20efekt-crop-u398412.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/forest_a125x88.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/g%C3%B3ry%20low-poly%20wallpaper125x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/g%C3%B3ry%20nexus%20low-poly126x88.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/garden%20love132x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview132x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ko%C5%82o-crop-u400722.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/long%20way%20ahead2-crop-u401112.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/luna%20na%20wzg%C3%B3rzu-01-crop-u401502.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ori125x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/rainbow%20wallpaper%204k-crop-u403062.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/1-crop-u403522.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/2-crop-u403832.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/neonb136x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/sarna-01-crop-u404222.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/preview118x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/through%20eternity-crop-u405002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3ra-crop-u405532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rb117x99.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc-crop-u406152.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_front-crop-u50837.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked330x233.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster400x225.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bar349x233.jpg</image:loc>
@@ -1209,6 +1167,9 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview349x233.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o233x233.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1218,7 +1179,7 @@
       <image:loc>http://SiMonk0.github.io/images/luna%20na%20wzg%C3%B3rzu-01431x243.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ori329x233.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/luna-by-graphic-edit400x225.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/rainbow%20wallpaper%204k431x243.jpg</image:loc>
@@ -1239,6 +1200,9 @@
       <image:loc>http://SiMonk0.github.io/images/preview310x233.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity233x233.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1251,19 +1215,214 @@
       <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc233x233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster1032x581.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_wallpaper400x233.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u48102.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_front250x250.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/canterlot-remaster400x225.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked125x88.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/canterlot-remaster-crop-u481022.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/22.jpg</image:loc>
+      <image:loc>http://SiMonk0.github.io/images/bar132x88.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/blur%20wallpaperb%20%E2%80%94%20kopia-crop-u397242.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/xd-crop-u398022.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/fala%20efekt-crop-u398412.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/forest_a125x88.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/g%C3%B3ry%20low-poly%20wallpaper125x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/g%C3%B3ry%20nexus%20low-poly126x88.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/garden%20love132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview132x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u506862.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ko%C5%82o-crop-u400722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/long%20way%20ahead2-crop-u401112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/luna%20na%20wzg%C3%B3rzu-01-crop-u401502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/luna-by-graphic-edit-crop-u506472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/rainbow%20wallpaper%204k-crop-u403062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/1-crop-u403522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2-crop-u403832.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/neonb136x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/sarna-01-crop-u404222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/preview118x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u507252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/through%20eternity-crop-u405002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3ra-crop-u405532.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rb117x99.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/wz%C3%B3rc-crop-u406152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_wallpaper-crop-u507982.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_front-crop-u508372.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://SiMonk0.github.io/storymode.html</loc>
+    <lastmod>2019-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-autumn1032x581.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/favicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-spring.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-autumn-crop-u48968.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/favicon-crop-u49927.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-crop-u49958.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-spring-crop-u49989.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-autumn356x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/favicon206x206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds356x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-spring356x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-autumn-crop-u489682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/favicon-crop-u499272.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-crop-u499582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/storymode-backgrounds-spring-crop-u499892.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://SiMonk0.github.io/ponygames.html</loc>
+    <lastmod>2019-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/gui.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-01-crop-u49232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-02-crop-u49230.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-03-crop-u49228.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u49270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u49272.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/gui-crop-u49274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-01-crop-u492322.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-02-crop-u492302.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/assetpac-03-crop-u492282.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u492702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u492722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/gui-crop-u492742.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://SiMonk0.github.io/contact.html</loc>
+    <lastmod>2019-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
