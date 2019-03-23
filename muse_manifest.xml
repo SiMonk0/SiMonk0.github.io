@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553259621380">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553380442936">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="4167059392" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="master_a-wzorcowa.css" crc="3931774499" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="369203372" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
     <file name="logos.css" crc="4244121163" ref="logos"/>
     <file name="nomq_logos.css" crc="4262395239" ref="logos"/>
-    <file name="contact.css" crc="281285587" ref="contact"/>
-    <file name="nomq_contact.css" crc="3822742241" ref="contact"/>
+    <file name="contact.css" crc="157658669" ref="contact"/>
+    <file name="nomq_contact.css" crc="36898452" ref="contact"/>
     <file name="storymode.css" crc="272439552" ref="storymode"/>
     <file name="nomq_storymode.css" crc="295428455" ref="storymode"/>
     <file name="index.css" crc="29028200" ref="index"/>
@@ -1499,5 +1499,5 @@
   <file name="personal-work.html" crc="3923313173" seo="true" mt="1553259439448" redirect="true"/>
   <file name="storymode.html" crc="319285073" seo="true" mt="1553259471169" redirect="true"/>
   <file name="ponygames.html" crc="3871936496" seo="true" mt="1553259439448" redirect="true"/>
-  <file name="contact.html" crc="132046994" seo="true" mt="1553259593165" redirect="true"/>
+  <file name="contact.html" crc="409901899" seo="true" mt="1553380395204" redirect="true"/>
 </manifest>
