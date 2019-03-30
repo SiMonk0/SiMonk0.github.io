@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SiMonk0.github.io/index.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -352,6 +352,30 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-23117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-30.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-30173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-30260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-30117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-31.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-31173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-31260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-31117x93.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -794,7 +818,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -952,6 +976,30 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%204-crop-u392682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/bondvein-crop-u52695.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nature-crop-u52580.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/bondvein.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nature.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/bondvein356x141.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nature356x201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/bondvein-crop-u526952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nature-crop-u525802.jpg</image:loc>
     </image:image>
   </url>
   <url>

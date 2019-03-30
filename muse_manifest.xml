@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553380442936">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1553968752979">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="3931774499" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="master_a-wzorcowa.css" crc="273468773" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="369203372" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
-    <file name="logos.css" crc="4244121163" ref="logos"/>
-    <file name="nomq_logos.css" crc="4262395239" ref="logos"/>
+    <file name="logos.css" crc="4029124246" ref="logos"/>
+    <file name="nomq_logos.css" crc="333097750" ref="logos"/>
     <file name="contact.css" crc="157658669" ref="contact"/>
     <file name="nomq_contact.css" crc="36898452" ref="contact"/>
     <file name="storymode.css" crc="272439552" ref="storymode"/>
     <file name="nomq_storymode.css" crc="295428455" ref="storymode"/>
-    <file name="index.css" crc="29028200" ref="index"/>
-    <file name="nomq_index.css" crc="3869300607" ref="index"/>
+    <file name="index.css" crc="100138944" ref="index"/>
+    <file name="nomq_index.css" crc="4157987320" ref="index"/>
     <file name="horsegame.css" crc="185101981" ref="horsegame"/>
     <file name="nomq_horsegame.css" crc="83449797" ref="horsegame"/>
     <file name="portfolio.css" crc="4266930550" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="207051606" ref="portfolio"/>
-    <file name="uiux.css" crc="4186335486" ref="uiux"/>
-    <file name="nomq_uiux.css" crc="3949793278" ref="uiux"/>
+    <file name="uiux.css" crc="103299144" ref="uiux"/>
+    <file name="nomq_uiux.css" crc="405126521" ref="uiux"/>
     <file name="stonicorn.css" crc="238085895" ref="stonicorn"/>
     <file name="nomq_stonicorn.css" crc="4205751577" ref="stonicorn"/>
     <file name="ponyage-chronicles.css" crc="3840330460" ref="ponyage-chronicles"/>
@@ -55,10 +55,6 @@
     <file name="particle-backgrounds-1.jpg" crc="3894883647" ref="index:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-    </file>
-    <file name="simonk0-logo.jpg" crc="459006410" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
     <file name="logomock-u32280-fr.jpg" crc="86424831" ref="portfolio"/>
@@ -1488,14 +1484,66 @@
     <file name="storymode-backgrounds-autumn-u51330-fr.jpg" crc="3969759391" ref="contact"/>
     <file name="twitter-size-background-u51331-fr2.jpg" crc="307081477" ref="contact"/>
     <file name="storymode-backgrounds-autumn-u51330-fr2.jpg" crc="178611731" ref="contact"/>
+    <file name="deer.png" crc="208733709" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loga-30.jpg" crc="3926088451" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-30173x138.jpg" crc="3991969354" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-30260x206.jpg" crc="484799483" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-30117x93.jpg" crc="420797391" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="deer-u52451-fr.png" crc="4258886805" ref="index"/>
+    <file name="loga-31.jpg" crc="4063470477" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-31173x138.jpg" crc="393643068" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-31260x206.jpg" crc="406545445" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-31117x93.jpg" crc="4078574682" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="bondvein-crop-u52695.jpg" crc="4060509876" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="nature-crop-u52580.jpg" crc="3823618598" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="bondvein.jpg" crc="363754992" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="nature.jpg" crc="3997766377" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="bondvein356x141.jpg" crc="4144039523" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="nature356x201.jpg" crc="346873485" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="bondvein-crop-u526952.jpg" crc="4203135793" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="nature-crop-u525802.jpg" crc="4183029314" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="501992678" seo="true" mt="1553259471029" redirect="true"/>
+  <file name="index.html" crc="461813337" seo="true" mt="1553957942089" redirect="true"/>
   <file name="portfolio.html" crc="479221317" seo="true" mt="1553259439448" redirect="true"/>
-  <file name="logos.html" crc="4261918157" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="logos.html" crc="386881812" seo="true" mt="1553968642560" redirect="true"/>
   <file name="stonicorn.html" crc="3841451766" seo="true" mt="1553259439448" redirect="true"/>
   <file name="horsegame.html" crc="4048142859" seo="true" mt="1553259439448" redirect="true"/>
   <file name="ponyage-chronicles.html" crc="171490595" seo="true" mt="1553259439448" redirect="true"/>
-  <file name="uiux.html" crc="4237541777" seo="true" mt="1553259439448" redirect="true"/>
+  <file name="uiux.html" crc="135378546" seo="true" mt="1553968675507" redirect="true"/>
   <file name="personal-work.html" crc="3923313173" seo="true" mt="1553259439448" redirect="true"/>
   <file name="storymode.html" crc="319285073" seo="true" mt="1553259471169" redirect="true"/>
   <file name="ponygames.html" crc="3871936496" seo="true" mt="1553259439448" redirect="true"/>
