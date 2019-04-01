@@ -1004,9 +1004,12 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/2.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/bubbles%20unmarked.png</image:loc>
     </image:image>
@@ -1060,9 +1063,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/22.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/neonb.jpg</image:loc>
@@ -1355,6 +1355,54 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/the%20highest%20tower%2011_front-crop-u508372.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/music-in-the-sky.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/birdsong.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/let-s-hear-it-(for-the-wonderbolts)-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nicolas-dominique.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/music-in-the-sky-crop-u52755.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/birdsong-crop-u52794.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/let-s-hear-it-(for-the-wonderbolts)-photo-crop-u52833.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nicolas-dominique-crop-u52914.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/music-in-the-sky250x250.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/birdsong400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/let-s-hear-it-(for-the-wonderbolts)-photo400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nicolas-dominique400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/music-in-the-sky-crop-u527552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/birdsong-crop-u527942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/let-s-hear-it-(for-the-wonderbolts)-photo-crop-u528332.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/nicolas-dominique-crop-u529142.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/storymode.html</loc>
@@ -1469,7 +1517,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
