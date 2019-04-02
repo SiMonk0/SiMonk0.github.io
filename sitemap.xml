@@ -740,7 +740,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -818,7 +818,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-03-30</lastmod>
+    <lastmod>2019-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -829,9 +829,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206-crop-u38976.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u45995.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u39038.jpg</image:loc>
@@ -885,9 +882,6 @@
       <image:loc>http://SiMonk0.github.io/images/2ui899x599.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2013.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%2022.jpg</image:loc>
     </image:image>
     <image:image>
@@ -924,9 +918,6 @@
       <image:loc>http://SiMonk0.github.io/images/2ui310x207.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201355x2003.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%202355x2002.jpg</image:loc>
     </image:image>
     <image:image>
@@ -946,9 +937,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%206-crop-u389762.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%201-crop-u459952.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/web%201920%20%E2%80%93%208-crop-u390382.jpg</image:loc>
@@ -1000,6 +988,18 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/nature-crop-u525802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/group%2030209x130.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/group%2030.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/group%2030332x206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/group%2030142x88.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1517,7 +1517,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <lastmod>2019-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
