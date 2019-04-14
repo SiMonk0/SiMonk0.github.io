@@ -8,13 +8,13 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-03-30</lastmod>
+    <lastmod>2019-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -377,10 +377,34 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-31117x93.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-32.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-33173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-32173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-33260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-32260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-33117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-32117x93.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1517,7 +1541,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
