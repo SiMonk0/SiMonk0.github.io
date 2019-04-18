@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1555238482192">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1555615229997">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="4214856671" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="3817134788" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="master_a-wzorcowa.css" crc="461197351" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="118011111" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
     <file name="logos.css" crc="4197544646" ref="logos"/>
     <file name="nomq_logos.css" crc="414539022" ref="logos"/>
     <file name="contact.css" crc="3772752330" ref="contact"/>
     <file name="nomq_contact.css" crc="114667510" ref="contact"/>
-    <file name="storymode.css" crc="272439552" ref="storymode"/>
-    <file name="nomq_storymode.css" crc="295428455" ref="storymode"/>
+    <file name="storymode.css" crc="4045873822" ref="storymode"/>
+    <file name="nomq_storymode.css" crc="4257953748" ref="storymode"/>
     <file name="index.css" crc="100138944" ref="index"/>
     <file name="nomq_index.css" crc="4157987320" ref="index"/>
     <file name="horsegame.css" crc="185101981" ref="horsegame"/>
@@ -17,8 +17,8 @@
     <file name="nomq_portfolio.css" crc="168738737" ref="portfolio"/>
     <file name="uiux.css" crc="284947497" ref="uiux"/>
     <file name="nomq_uiux.css" crc="100668053" ref="uiux"/>
-    <file name="stonicorn.css" crc="4247883370" ref="stonicorn"/>
-    <file name="nomq_stonicorn.css" crc="493932209" ref="stonicorn"/>
+    <file name="stonicorn.css" crc="4178808947" ref="stonicorn"/>
+    <file name="nomq_stonicorn.css" crc="402937576" ref="stonicorn"/>
     <file name="ponyage-chronicles.css" crc="4093163824" ref="ponyage-chronicles"/>
     <file name="nomq_ponyage-chronicles.css" crc="159615671" ref="ponyage-chronicles"/>
     <file name="personal-work.css" crc="3916503251" ref="personal-work"/>
@@ -76,8 +76,10 @@
       <caption webpage="logos" alt=""/>
     </file>
     <file name="particle backgrounds-03.jpg" crc="91781204" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames">
-      <caption webpage="uiux" alt=""/>
+      <caption webpage="stonicorn" alt=""/>
+      <caption webpage="storymode" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="uiux" alt=""/>
       <caption webpage="personal-work" alt=""/>
       <caption webpage="logos" alt=""/>
     </file>
@@ -425,66 +427,9 @@
     <file name="stonicornlogowhite.png" crc="3890067264" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
-    <file name="2.jpg" crc="4224784179" seo="true" ref="stonicorn:personal-work">
+    <file name="2.jpg" crc="4224784179" seo="true" ref="personal-work">
       <caption webpage="stonicorn" alt=""/>
       <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="3.jpg" crc="3794711019" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="4.jpg" crc="530541447" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="5.jpg" crc="115371331" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="6.jpg" crc="393498567" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="7.jpg" crc="474917154" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="8.jpg" crc="4178338747" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="9.jpg" crc="4291411781" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="10.jpg" crc="4277960345" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="11.jpg" crc="4287632262" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="2-crop-u32689.jpg" crc="3785338188" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="3-crop-u33360.jpg" crc="189154595" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="4-crop-u33391.jpg" crc="534904814" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="5-crop-u33422.jpg" crc="3886979859" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="6-crop-u33453.jpg" crc="40731582" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="7-crop-u33484.jpg" crc="4130243269" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="8-crop-u33515.jpg" crc="386816566" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="9-crop-u33546.jpg" crc="4203347932" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="10-crop-u33577.jpg" crc="4157745271" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="11-crop-u33608.jpg" crc="3940028559" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
     </file>
     <file name="splash-01.jpg" crc="4017197860" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
@@ -514,66 +459,6 @@
       <caption webpage="stonicorn" alt=""/>
     </file>
     <file name="stonicornlogowhite-u33248-fr.png" crc="3836634945" ref="stonicorn"/>
-    <file name="2366x206.jpg" crc="4007080679" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="3366x206.jpg" crc="325488097" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="4366x206.jpg" crc="375306216" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="5366x206.jpg" crc="3963391477" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="6366x206.jpg" crc="3988077569" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="7366x206.jpg" crc="3891535255" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="8366x206.jpg" crc="4170102620" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="9366x206.jpg" crc="214266264" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="10366x206.jpg" crc="483159259" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="11366x206.jpg" crc="4271032629" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="2-crop-u326892.jpg" crc="4250195306" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="3-crop-u333602.jpg" crc="115367156" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="4-crop-u333912.jpg" crc="453975921" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="5-crop-u334222.jpg" crc="42786658" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="6-crop-u334532.jpg" crc="4188162993" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="7-crop-u334842.jpg" crc="4011483446" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="8-crop-u335152.jpg" crc="3821964159" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="9-crop-u335462.jpg" crc="3866675587" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="10-crop-u335772.jpg" crc="4118778066" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
-    <file name="11-crop-u336082.jpg" crc="105851173" seo="true" ref="stonicorn">
-      <caption webpage="stonicorn" alt=""/>
-    </file>
     <file name="splash-01366x206.jpg" crc="4214800507" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
@@ -1618,16 +1503,208 @@
     <file name="loga-32117x93.jpg" crc="394986844" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
+    <file name="stonicorn-01.jpg" crc="534753953" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-02.jpg" crc="116747418" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-03.jpg" crc="3796895071" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-04.jpg" crc="3880675982" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-05.jpg" crc="394566563" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-06.jpg" crc="3779080737" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-07.jpg" crc="4287344644" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-08.jpg" crc="23290866" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-09.jpg" crc="4099102303" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-10.jpg" crc="3946449059" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-11.jpg" crc="3920493126" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-12.jpg" crc="4200251141" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-13.jpg" crc="57085500" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-14.jpg" crc="3841684999" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-15.jpg" crc="3914258846" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-16.jpg" crc="156939890" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-01-crop-u54304.jpg" crc="4131475833" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-02-crop-u54705.jpg" crc="430804618" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-03-crop-u54736.jpg" crc="4050987481" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-04-crop-u54767.jpg" crc="4206639096" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-05-crop-u54798.jpg" crc="4223182691" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-06-crop-u54829.jpg" crc="82658377" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-07-crop-u54860.jpg" crc="3946784374" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-08-crop-u54891.jpg" crc="4237953414" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-09-crop-u54922.jpg" crc="344396083" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-10-crop-u54953.jpg" crc="424602751" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-11-crop-u54984.jpg" crc="426804023" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-12-crop-u55015.jpg" crc="3981181935" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-13-crop-u55046.jpg" crc="3927938792" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-14-crop-u55077.jpg" crc="4174215036" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-15-crop-u55108.jpg" crc="4234249061" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-16-crop-u55139.jpg" crc="3951381666" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-01356x159.jpg" crc="3849949935" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-02356x159.jpg" crc="3906416234" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-03356x159.jpg" crc="3759769131" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-04356x159.jpg" crc="331650055" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-05356x159.jpg" crc="3925224582" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-06356x159.jpg" crc="4209243080" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-07356x159.jpg" crc="4012445049" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-08356x159.jpg" crc="411002059" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-09356x159.jpg" crc="490356488" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-10356x159.jpg" crc="488164497" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-11356x159.jpg" crc="277112851" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-12356x159.jpg" crc="106841679" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-13356x159.jpg" crc="3876413564" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-14356x159.jpg" crc="4197363495" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-15356x159.jpg" crc="4172597290" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-16356x159.jpg" crc="420048331" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-01-crop-u543042.jpg" crc="3905900265" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-02-crop-u547052.jpg" crc="3802175797" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-03-crop-u547362.jpg" crc="26749418" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-04-crop-u547672.jpg" crc="361781683" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-05-crop-u547982.jpg" crc="3871545838" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-06-crop-u548292.jpg" crc="4128029181" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-07-crop-u548602.jpg" crc="102504857" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-08-crop-u548912.jpg" crc="3855309898" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-09-crop-u549222.jpg" crc="311095480" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-10-crop-u549532.jpg" crc="488444184" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-11-crop-u549842.jpg" crc="386292906" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-12-crop-u550152.jpg" crc="4211627211" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-13-crop-u550462.jpg" crc="3855235134" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-14-crop-u550772.jpg" crc="267719317" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-15-crop-u551082.jpg" crc="4009444898" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
+    <file name="stonicorn-16-crop-u551392.jpg" crc="4111117339" seo="true" ref="stonicorn">
+      <caption webpage="stonicorn" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="461813337" seo="true" mt="1553957942089" redirect="true"/>
   <file name="portfolio.html" crc="3847306672" seo="true" mt="1555238407653" redirect="true"/>
   <file name="logos.html" crc="436174017" seo="true" mt="1555238455750" redirect="true"/>
-  <file name="stonicorn.html" crc="363699353" seo="true" mt="1555238407655" redirect="true"/>
+  <file name="stonicorn.html" crc="3879882266" seo="true" mt="1555615214834" redirect="true"/>
   <file name="horsegame.html" crc="4048142859" seo="true" mt="1553259439448" redirect="true"/>
   <file name="ponyage-chronicles.html" crc="88419404" seo="true" mt="1554187704578" redirect="true"/>
   <file name="uiux.html" crc="4053453656" seo="true" mt="1554187201552" redirect="true"/>
   <file name="personal-work.html" crc="224569702" seo="true" mt="1554138004883" redirect="true"/>
-  <file name="storymode.html" crc="319285073" seo="true" mt="1553259471169" redirect="true"/>
+  <file name="storymode.html" crc="4045334387" seo="true" mt="1555614576906" redirect="true"/>
   <file name="ponygames.html" crc="3871936496" seo="true" mt="1553259439448" redirect="true"/>
   <file name="contact.html" crc="508498145" seo="true" mt="1555238407655" redirect="true"/>
 </manifest>
