@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1555615229997">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1556712316328">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="461197351" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="118011111" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
-    <file name="logos.css" crc="4197544646" ref="logos"/>
+    <file name="master_a-wzorcowa.css" crc="242400125" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="3817134788" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:ponygames"/>
+    <file name="logos.css" crc="4138485360" ref="logos"/>
     <file name="nomq_logos.css" crc="414539022" ref="logos"/>
-    <file name="contact.css" crc="3772752330" ref="contact"/>
+    <file name="contact.css" crc="4171574873" ref="contact"/>
     <file name="nomq_contact.css" crc="114667510" ref="contact"/>
-    <file name="storymode.css" crc="4045873822" ref="storymode"/>
+    <file name="storymode.css" crc="3959209723" ref="storymode"/>
     <file name="nomq_storymode.css" crc="4257953748" ref="storymode"/>
-    <file name="index.css" crc="100138944" ref="index"/>
+    <file name="index.css" crc="4110079385" ref="index"/>
     <file name="nomq_index.css" crc="4157987320" ref="index"/>
-    <file name="horsegame.css" crc="185101981" ref="horsegame"/>
-    <file name="nomq_horsegame.css" crc="83449797" ref="horsegame"/>
-    <file name="portfolio.css" crc="3824601794" ref="portfolio"/>
+    <file name="horsegame.css" crc="4256077885" ref="horsegame"/>
+    <file name="nomq_horsegame.css" crc="4249152522" ref="horsegame"/>
+    <file name="portfolio.css" crc="308086316" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="168738737" ref="portfolio"/>
-    <file name="uiux.css" crc="284947497" ref="uiux"/>
+    <file name="uiux.css" crc="4196222276" ref="uiux"/>
     <file name="nomq_uiux.css" crc="100668053" ref="uiux"/>
-    <file name="stonicorn.css" crc="4178808947" ref="stonicorn"/>
-    <file name="nomq_stonicorn.css" crc="402937576" ref="stonicorn"/>
-    <file name="ponyage-chronicles.css" crc="4093163824" ref="ponyage-chronicles"/>
+    <file name="stonicorn.css" crc="514743899" ref="stonicorn"/>
+    <file name="nomq_stonicorn.css" crc="3975792079" ref="stonicorn"/>
+    <file name="ponyage-chronicles.css" crc="124135451" ref="ponyage-chronicles"/>
     <file name="nomq_ponyage-chronicles.css" crc="159615671" ref="ponyage-chronicles"/>
-    <file name="personal-work.css" crc="3916503251" ref="personal-work"/>
-    <file name="nomq_personal-work.css" crc="348657891" ref="personal-work"/>
-    <file name="ponygames.css" crc="173905419" ref="ponygames"/>
-    <file name="nomq_ponygames.css" crc="473136862" ref="ponygames"/>
+    <file name="personal-work.css" crc="80623674" ref="personal-work"/>
+    <file name="nomq_personal-work.css" crc="4006060583" ref="personal-work"/>
+    <file name="ponygames.css" crc="245480411" ref="ponygames"/>
+    <file name="nomq_ponygames.css" crc="4232035814" ref="ponygames"/>
   </folder>
   <folder name="fonts">
     <file name="stonicornfontregular.woff" crc="3844255562"/>
@@ -54,8 +54,8 @@
   <folder name="images">
     <file name="particle-backgrounds-1.jpg" crc="3894883647" ref="index:portfolio:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames:contact"/>
     <file name="logomock-u32280-fr.jpg" crc="86424831" ref="portfolio"/>
@@ -76,12 +76,12 @@
       <caption webpage="logos" alt=""/>
     </file>
     <file name="particle backgrounds-03.jpg" crc="91781204" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:ponygames">
-      <caption webpage="stonicorn" alt=""/>
-      <caption webpage="storymode" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
       <caption webpage="uiux" alt=""/>
       <caption webpage="personal-work" alt=""/>
       <caption webpage="logos" alt=""/>
+      <caption webpage="stonicorn" alt=""/>
+      <caption webpage="storymode" alt=""/>
     </file>
     <file name="loga-01.jpg" crc="3799731533" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
@@ -427,9 +427,9 @@
     <file name="stonicornlogowhite.png" crc="3890067264" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
-    <file name="2.jpg" crc="4224784179" seo="true" ref="personal-work">
-      <caption webpage="stonicorn" alt=""/>
+    <file name="2.jpg" crc="318265305" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
+      <caption webpage="stonicorn" alt=""/>
     </file>
     <file name="splash-01.jpg" crc="4017197860" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
@@ -672,24 +672,24 @@
       <caption webpage="horsegame" alt=""/>
     </file>
     <file name="ponyage chronicles menu-01.jpg" crc="3842802295" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="ponyage-chronicles-logo-2.png" crc="62633867" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="assetpac-01.png" crc="482265950" seo="true" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="assetpac-02.png" crc="337747575" seo="true" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="assetpac-03.png" crc="377582455" seo="true" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="assetpac-01-crop-u37357.png" crc="4196009569" seo="true" ref="ponyage-chronicles">
       <caption webpage="ponyage-chronicles" alt=""/>
@@ -704,12 +704,12 @@
       <caption webpage="ponyage-chronicles" alt=""/>
     </file>
     <file name="ponyage chronicles menu-02.jpg" crc="4170277086" seo="true" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="gui.jpg" crc="375913672" seo="true" ref="ponyage-chronicles:ponygames">
-      <caption webpage="ponygames" alt=""/>
       <caption webpage="ponyage-chronicles" alt=""/>
+      <caption webpage="ponygames" alt=""/>
     </file>
     <file name="ponyage chronicles menu-01-crop-u36212.jpg" crc="472815245" seo="true" ref="ponyage-chronicles">
       <caption webpage="ponyage-chronicles" alt=""/>
@@ -941,9 +941,6 @@
     <file name="halo poster preview.jpg" crc="3779243355" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="monday-melodies-vintage-style.jpg" crc="466377850" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
     <file name="koło.jpg" crc="4167076375" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -969,9 +966,6 @@
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="preview.jpg" crc="4014685231" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="monday-melodies.jpg" crc="3949882697" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="through eternity.jpg" crc="3771960191" seo="true" ref="personal-work">
@@ -1025,9 +1019,6 @@
     <file name="halo poster preview195x130.jpg" crc="338941564" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="monday-melodies-vintage-style-crop-u50686.jpg" crc="140657613" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
     <file name="koło-crop-u40072.jpg" crc="4116893831" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -1056,9 +1047,6 @@
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="preview174x130.jpg" crc="4045614551" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="monday-melodies-crop-u50725.jpg" crc="536734109" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="through eternity-crop-u40500.jpg" crc="75899752" seo="true" ref="personal-work">
@@ -1113,9 +1101,6 @@
     <file name="halo poster preview349x233.jpg" crc="197959740" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="monday-melodies-vintage-style400x225.jpg" crc="3894174785" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
     <file name="koło233x233.jpg" crc="52640248" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -1144,9 +1129,6 @@
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="preview310x233.jpg" crc="195772589" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="monday-melodies400x225.jpg" crc="203099685" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="through eternity233x233.jpg" crc="154747646" seo="true" ref="personal-work">
@@ -1200,9 +1182,6 @@
     <file name="halo poster preview132x88.jpg" crc="3846756603" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
-    <file name="monday-melodies-vintage-style-crop-u506862.jpg" crc="462830591" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
     <file name="koło-crop-u400722.jpg" crc="3888061109" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
@@ -1231,9 +1210,6 @@
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="preview118x88.jpg" crc="4030514453" seo="true" ref="personal-work">
-      <caption webpage="personal-work" alt=""/>
-    </file>
-    <file name="monday-melodies-crop-u507252.jpg" crc="367328616" seo="true" ref="personal-work">
       <caption webpage="personal-work" alt=""/>
     </file>
     <file name="through eternity-crop-u405002.jpg" crc="3893226291" seo="true" ref="personal-work">
@@ -1695,16 +1671,40 @@
     <file name="stonicorn-16-crop-u551392.jpg" crc="4111117339" seo="true" ref="stonicorn">
       <caption webpage="stonicorn" alt=""/>
     </file>
+    <file name="monday-melodies-vintage-style.png" crc="3855944386" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies.png" crc="353578752" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style-crop-u50686.png" crc="4102493348" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-crop-u50725.png" crc="23062427" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style400x225.png" crc="221085869" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies400x225.png" crc="4031465885" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-vintage-style-crop-u506862.png" crc="385945847" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
+    <file name="monday-melodies-crop-u507252.png" crc="512433193" seo="true" ref="personal-work">
+      <caption webpage="personal-work" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="461813337" seo="true" mt="1553957942089" redirect="true"/>
-  <file name="portfolio.html" crc="3847306672" seo="true" mt="1555238407653" redirect="true"/>
-  <file name="logos.html" crc="436174017" seo="true" mt="1555238455750" redirect="true"/>
-  <file name="stonicorn.html" crc="3879882266" seo="true" mt="1555615214834" redirect="true"/>
-  <file name="horsegame.html" crc="4048142859" seo="true" mt="1553259439448" redirect="true"/>
-  <file name="ponyage-chronicles.html" crc="88419404" seo="true" mt="1554187704578" redirect="true"/>
-  <file name="uiux.html" crc="4053453656" seo="true" mt="1554187201552" redirect="true"/>
-  <file name="personal-work.html" crc="224569702" seo="true" mt="1554138004883" redirect="true"/>
-  <file name="storymode.html" crc="4045334387" seo="true" mt="1555614576906" redirect="true"/>
-  <file name="ponygames.html" crc="3871936496" seo="true" mt="1553259439448" redirect="true"/>
-  <file name="contact.html" crc="508498145" seo="true" mt="1555238407655" redirect="true"/>
+  <file name="index.html" crc="4286220101" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="portfolio.html" crc="3776384481" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="logos.html" crc="84006933" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="stonicorn.html" crc="4100577172" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="horsegame.html" crc="69715003" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="ponyage-chronicles.html" crc="371287770" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="uiux.html" crc="523750964" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="personal-work.html" crc="3963028932" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="storymode.html" crc="4029936016" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="ponygames.html" crc="4088653871" seo="true" mt="1556712267428" redirect="true"/>
+  <file name="contact.html" crc="14235567" seo="true" mt="1556712267428" redirect="true"/>
 </manifest>

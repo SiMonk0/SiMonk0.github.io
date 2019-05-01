@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SiMonk0.github.io/index.html</loc>
-    <lastmod>2019-03-30</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-04-14</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-04-14</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,7 +404,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -650,7 +650,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/horsegame.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -836,7 +836,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -914,7 +914,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-04-02</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1100,7 +1100,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-04-01</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1140,9 +1140,6 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1168,9 +1165,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/preview.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity.jpg</image:loc>
@@ -1224,9 +1218,6 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview195x130.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u50686.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o-crop-u40072.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1255,9 +1246,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/preview174x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u50725.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity-crop-u40500.jpg</image:loc>
@@ -1311,9 +1299,6 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview349x233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style400x225.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o233x233.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1342,9 +1327,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/preview310x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies400x225.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity233x233.jpg</image:loc>
@@ -1398,9 +1380,6 @@
       <image:loc>http://SiMonk0.github.io/images/halo%20poster%20preview132x88.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u506862.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://SiMonk0.github.io/images/ko%C5%82o-crop-u400722.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1429,9 +1408,6 @@
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/preview118x88.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u507252.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/through%20eternity-crop-u405002.jpg</image:loc>
@@ -1499,10 +1475,34 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/nicolas-dominique-crop-u529142.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u50686.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u50725.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style400x225.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies400x225.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-vintage-style-crop-u506862.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/monday-melodies-crop-u507252.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/storymode.html</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1556,7 +1556,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponygames.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1613,7 +1613,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-04-14</lastmod>
+    <lastmod>2019-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
