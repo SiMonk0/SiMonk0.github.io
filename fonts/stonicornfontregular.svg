@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg>
 <metadata>
-Created by FontForge 20170731 at Wed Feb 27 19:14:07 2019
- By Aleksey,,,
+Created by FontForge 20090622 at Wed May  1 21:49:00 2019
+ By deploy user
 </metadata>
 <defs>
 <font id="StonicornFontRegular" horiz-adv-x="580" >
@@ -18,9 +18,9 @@ Created by FontForge 20170731 at Wed Feb 27 19:14:07 2019
     x-height="576"
     cap-height="578"
     bbox="37 -224 982 865"
-    underline-thickness="50"
-    underline-position="-200"
-    unicode-range="U+000A-F001"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+000A-U+F001"
   />
 <missing-glyph horiz-adv-x="527" 
 d="M50 700h427v-700h-427v700zM78 680l185 -309l186 309h-371zM251 350l-180 300v-601zM264 329l-185 -308h370zM276 350l181 -303v605z" />

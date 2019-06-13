@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://SiMonk0.github.io/index.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/portfolio.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/logos.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,7 +404,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -650,7 +650,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/horsegame.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -836,7 +836,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/ponyage-chronicles.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -914,7 +914,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/uiux.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1097,10 +1097,46 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/group%2030142x88.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc1173x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/th1173x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc2173x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/th1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc1275x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/th1275x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc2275x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc1117x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/th1117x88.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/calc2117x88.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/personal-work.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1502,7 +1538,7 @@
   </url>
   <url>
     <loc>http://SiMonk0.github.io/storymode.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1555,65 +1591,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://SiMonk0.github.io/ponygames.html</loc>
-    <lastmod>2019-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-02.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/gui.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-01-crop-u49232.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-02-crop-u49230.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-03-crop-u49228.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u49270.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u49272.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/gui-crop-u49274.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-01-crop-u492322.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-02-crop-u492302.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/assetpac-03-crop-u492282.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-01-crop-u492702.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/ponyage%20chronicles%20menu-02-crop-u492722.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://SiMonk0.github.io/images/gui-crop-u492742.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://SiMonk0.github.io/contact.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
