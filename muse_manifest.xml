@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1560439656267">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1560551019870">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="303942372" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="3802768617" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
-    <file name="logos.css" crc="40013487" ref="logos"/>
-    <file name="nomq_logos.css" crc="90159027" ref="logos"/>
+    <file name="master_a-wzorcowa.css" crc="4233931214" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="273928642" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
+    <file name="logos.css" crc="211916920" ref="logos"/>
+    <file name="nomq_logos.css" crc="73559220" ref="logos"/>
     <file name="contact.css" crc="109227180" ref="contact"/>
     <file name="nomq_contact.css" crc="19048188" ref="contact"/>
     <file name="storymode.css" crc="4115180254" ref="storymode"/>
@@ -84,12 +84,12 @@
       <caption webpage="logos" alt=""/>
     </file>
     <file name="particle backgrounds-03.jpg" crc="91781204" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode">
-      <caption webpage="logos" alt=""/>
-      <caption webpage="stonicorn" alt=""/>
-      <caption webpage="storymode" alt=""/>
-      <caption webpage="ponyage-chronicles" alt=""/>
-      <caption webpage="uiux" alt=""/>
       <caption webpage="personal-work" alt=""/>
+      <caption webpage="logos" alt=""/>
+      <caption webpage="storymode" alt=""/>
+      <caption webpage="uiux" alt=""/>
+      <caption webpage="stonicorn" alt=""/>
+      <caption webpage="ponyage-chronicles" alt=""/>
     </file>
     <file name="loga-01.jpg" crc="3799731533" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
@@ -1703,10 +1703,34 @@
     <file name="calc2117x88.jpg" crc="3953502704" seo="true" ref="uiux">
       <caption webpage="uiux" alt=""/>
     </file>
+    <file name="loga-34.jpg" crc="3769915524" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-35.jpg" crc="76425979" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-34173x138.jpg" crc="44519114" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-35173x138.jpg" crc="3975347281" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-34260x206.jpg" crc="3955212595" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-35260x206.jpg" crc="4166247210" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-34117x93.jpg" crc="158442027" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
+    <file name="loga-35117x93.jpg" crc="4074582676" seo="true" ref="logos">
+      <caption webpage="logos" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="417887228" seo="true" mt="1560369507985" redirect="true"/>
   <file name="portfolio.html" crc="147776436" seo="true" mt="1560369535481" redirect="true"/>
-  <file name="logos.html" crc="230109337" seo="true" mt="1560369732604" redirect="true"/>
+  <file name="logos.html" crc="3997350977" seo="true" mt="1560550993448" redirect="true"/>
   <file name="stonicorn.html" crc="3982121119" seo="true" mt="1560369697305" redirect="true"/>
   <file name="horsegame.html" crc="384561947" seo="true" mt="1560439519096" redirect="true"/>
   <file name="ponyage-chronicles.html" crc="37101935" seo="true" mt="1560439586380" redirect="true"/>
