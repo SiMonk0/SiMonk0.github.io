@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Contact</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-wzorcowa.css?crc=303942372"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=109227180" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-wzorcowa.css?crc=4137645820"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=184251247" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_contact.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-wzorcowa.css?crc=3802768617"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-wzorcowa.css?crc=4181664138"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_contact.css?crc=19048188" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
@@ -371,7 +371,7 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1080'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u51446-bw').registerPositionScrollEffect([{"in":[-Infinity,-99.95],"speed":[null,1]},{"in":[-99.95,Infinity],"speed":[null,1]}], $(this)); /* scroll effect */
+$('#u51446-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,-99.95]},{"speed":[null,1],"in":[-99.95,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
