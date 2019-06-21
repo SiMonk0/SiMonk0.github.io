@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561151170453">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561151865943">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="3776203261" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
+    <file name="master_a-wzorcowa.css" crc="3961697663" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
     <file name="nomq_preview_master_a-wzorcowa.css" crc="56301605" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
     <file name="logos.css" crc="3886817956" ref="logos"/>
     <file name="nomq_logos.css" crc="3808601383" ref="logos"/>
@@ -15,8 +15,8 @@
     <file name="nomq_horsegame.css" crc="4160396513" ref="horsegame"/>
     <file name="portfolio.css" crc="202803244" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3856362447" ref="portfolio"/>
-    <file name="uiux.css" crc="269095282" ref="uiux"/>
-    <file name="nomq_uiux.css" crc="3895531378" ref="uiux"/>
+    <file name="uiux.css" crc="302204721" ref="uiux"/>
+    <file name="nomq_uiux.css" crc="4111359862" ref="uiux"/>
     <file name="stonicorn.css" crc="375545112" ref="stonicorn"/>
     <file name="nomq_stonicorn.css" crc="4013157404" ref="stonicorn"/>
     <file name="ponyage-chronicles.css" crc="235293281" ref="ponyage-chronicles"/>
@@ -1719,9 +1719,10 @@
     </file>
     <file name="watermarble-background.jpg" crc="350194702" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds">
       <caption webpage="index" alt=""/>
-      <caption webpage="logos" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="logos" alt=""/>
       <caption webpage="thrifty-deeds" alt=""/>
+      <caption webpage="uiux" alt=""/>
     </file>
     <file name="loga-36.jpg" crc="3908039544" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
@@ -2042,6 +2043,18 @@
     <file name="loga-38117x93.jpg" crc="4111383303" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
+    <file name="gaming-news-website173x130.jpg" crc="474360375" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="gaming-news-website.jpg" crc="13578681" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="gaming-news-website275x206.jpg" crc="448826087" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
+    <file name="gaming-news-website117x88.jpg" crc="3993474280" seo="true" ref="uiux">
+      <caption webpage="uiux" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="432529069" seo="true" mt="1561134256649" redirect="true"/>
   <file name="portfolio.html" crc="4149661516" seo="true" mt="1561139287684" redirect="true"/>
@@ -2049,7 +2062,7 @@
   <file name="stonicorn.html" crc="351112262" seo="true" mt="1561134256649" redirect="true"/>
   <file name="horsegame.html" crc="4060770122" seo="true" mt="1561134256649" redirect="true"/>
   <file name="ponyage-chronicles.html" crc="4101889518" seo="true" mt="1561134256649" redirect="true"/>
-  <file name="uiux.html" crc="4079048260" seo="true" mt="1561134256649" redirect="true"/>
+  <file name="uiux.html" crc="4038390528" seo="true" mt="1561151844889" redirect="true"/>
   <file name="personal-work.html" crc="4064416806" seo="true" mt="1561134256649" redirect="true"/>
   <file name="storymode.html" crc="436143515" seo="true" mt="1561134256649" redirect="true"/>
   <file name="contact.html" crc="229081310" seo="true" mt="1561139428465" redirect="true"/>
