@@ -449,6 +449,30 @@
     <image:image>
       <image:loc>http://SiMonk0.github.io/images/loga-37117x93.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-39.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-38.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-39173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-38173x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-39260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-38260x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-39117x93.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SiMonk0.github.io/images/loga-38117x93.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://SiMonk0.github.io/stonicorn.html</loc>
