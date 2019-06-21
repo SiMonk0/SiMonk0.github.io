@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561139598021">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561140132407">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="3944096077" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="4109340115" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
+    <file name="master_a-wzorcowa.css" crc="507682415" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="56301605" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
     <file name="logos.css" crc="136332010" ref="logos"/>
     <file name="nomq_logos.css" crc="192758886" ref="logos"/>
     <file name="contact.css" crc="115965164" ref="contact"/>
@@ -33,8 +33,8 @@
     <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="iefonts_personal-work.css" crc="3824530138" ref="personal-work"/>
-    <file name="thrifty-deeds.css" crc="275381593" ref="thrifty-deeds"/>
-    <file name="nomq_thrifty-deeds.css" crc="3859139232" ref="thrifty-deeds"/>
+    <file name="thrifty-deeds.css" crc="337996395" ref="thrifty-deeds"/>
+    <file name="nomq_thrifty-deeds.css" crc="476190412" ref="thrifty-deeds"/>
     <file name="iefonts_thrifty-deeds.css" crc="3824530138" ref="thrifty-deeds"/>
   </folder>
   <folder name="fonts">
@@ -1721,6 +1721,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="thrifty-deeds" alt=""/>
     </file>
     <file name="loga-36.jpg" crc="3908039544" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
@@ -2028,5 +2029,5 @@
   <file name="personal-work.html" crc="4064416806" seo="true" mt="1561134256649" redirect="true"/>
   <file name="storymode.html" crc="436143515" seo="true" mt="1561134256649" redirect="true"/>
   <file name="contact.html" crc="229081310" seo="true" mt="1561139428465" redirect="true"/>
-  <file name="thrifty-deeds.html" crc="498226535" seo="true" mt="1561139575717" redirect="true"/>
+  <file name="thrifty-deeds.html" crc="3993445639" seo="true" mt="1561140091409" redirect="true"/>
 </manifest>
