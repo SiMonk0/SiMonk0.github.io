@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561134358869">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SiMonk0.github.io" resolutions="1x" timestamp="1561139598021">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-wzorcowa.css" crc="3944096077" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
-    <file name="nomq_preview_master_a-wzorcowa.css" crc="4109340115" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work"/>
+    <file name="master_a-wzorcowa.css" crc="3944096077" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
+    <file name="nomq_preview_master_a-wzorcowa.css" crc="4109340115" ref="logos:contact:storymode:index:horsegame:portfolio:uiux:stonicorn:ponyage-chronicles:personal-work:thrifty-deeds"/>
     <file name="logos.css" crc="136332010" ref="logos"/>
     <file name="nomq_logos.css" crc="192758886" ref="logos"/>
-    <file name="contact.css" crc="482352005" ref="contact"/>
-    <file name="nomq_contact.css" crc="36260006" ref="contact"/>
+    <file name="contact.css" crc="115965164" ref="contact"/>
+    <file name="nomq_contact.css" crc="3978911766" ref="contact"/>
     <file name="storymode.css" crc="3801462879" ref="storymode"/>
     <file name="nomq_storymode.css" crc="239650664" ref="storymode"/>
     <file name="index.css" crc="4064785094" ref="index"/>
     <file name="nomq_index.css" crc="3872316095" ref="index"/>
     <file name="horsegame.css" crc="483567165" ref="horsegame"/>
     <file name="nomq_horsegame.css" crc="4160396513" ref="horsegame"/>
-    <file name="portfolio.css" crc="374092814" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="96408811" ref="portfolio"/>
+    <file name="portfolio.css" crc="202803244" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3856362447" ref="portfolio"/>
     <file name="uiux.css" crc="269095282" ref="uiux"/>
     <file name="nomq_uiux.css" crc="3895531378" ref="uiux"/>
     <file name="stonicorn.css" crc="375545112" ref="stonicorn"/>
@@ -33,6 +33,9 @@
     <file name="iefonts_logos.css" crc="3824530138" ref="logos"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="iefonts_personal-work.css" crc="3824530138" ref="personal-work"/>
+    <file name="thrifty-deeds.css" crc="275381593" ref="thrifty-deeds"/>
+    <file name="nomq_thrifty-deeds.css" crc="3859139232" ref="thrifty-deeds"/>
+    <file name="iefonts_thrifty-deeds.css" crc="3824530138" ref="thrifty-deeds"/>
   </folder>
   <folder name="fonts">
     <file name="stonicornfontregular.woff" crc="382612364"/>
@@ -43,24 +46,24 @@
     <file name="storymodefontregular.svg" crc="330705829"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="museutils.js" crc="340535759" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="require.js" crc="7928878" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
-    <file name="webpro.js" crc="4059564322" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode"/>
-    <file name="touchswipe.js" crc="4075097462" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="museutils.js" crc="340535759" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="require.js" crc="7928878" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
+    <file name="webpro.js" crc="4059564322" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:thrifty-deeds"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:thrifty-deeds"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:thrifty-deeds"/>
+    <file name="touchswipe.js" crc="4075097462" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:thrifty-deeds"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds"/>
     <file name="logomock-u32280-fr.jpg" crc="86424831" ref="portfolio"/>
     <file name="horsegame ui 50_sprocket hp loss and mana reg-u35288-fr.jpg" crc="194646973" ref="portfolio"/>
     <file name="storymode-backgrounds-autumn-u50413-fr.jpg" crc="4026242215" ref="portfolio"/>
@@ -246,7 +249,7 @@
     <file name="loga-23173x138.jpg" crc="4017272090" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode"/>
+    <file name="loading.gif" crc="3815509949" ref="logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:thrifty-deeds"/>
     <file name="logomock-u37727-fr.jpg" crc="467411488" ref="logos"/>
     <file name="loga-01-crop-u30331.jpg" crc="173698857" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
@@ -1714,7 +1717,7 @@
     <file name="loga-35117x93.jpg" crc="3848664773" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
-    <file name="watermarble-background.jpg" crc="350194702" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact">
+    <file name="watermarble-background.jpg" crc="350194702" ref="index:portfolio:logos:stonicorn:horsegame:ponyage-chronicles:uiux:personal-work:storymode:contact:thrifty-deeds">
       <caption webpage="index" alt=""/>
       <caption webpage="logos" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -1743,9 +1746,280 @@
     <file name="loga-37117x93.jpg" crc="192548139" seo="true" ref="logos">
       <caption webpage="logos" alt=""/>
     </file>
+    <file name="the-hills-u61142-fr.jpg" crc="4085854492" ref="portfolio"/>
+    <file name="the-hills-u61142-fr2.jpg" crc="4019897181" ref="portfolio"/>
+    <file name="the-hills-u61299-fr.jpg" crc="322852687" ref="contact"/>
+    <file name="the-hills-u61299-fr2.jpg" crc="424045302" ref="contact"/>
+    <file name="the-hills.jpg" crc="282084735" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_arrow broken.png" crc="419249243" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_bow tarnished.png" crc="220747132" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg shells.png" crc="45997037" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg.png" crc="113754501" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_elven bow tarnished.png" crc="325172837" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 4.png" crc="4256407598" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 6.png" crc="137492013" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_gems.png" crc="337261286" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_green potion almost empty.png" crc="4278466966" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion almost empty.png" crc="4212374348" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion full.png" crc="4067270106" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_ring.png" crc="528890182" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_spices.png" crc="246031178" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_stick.png" crc="4102175582" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_arrow broken-crop-u59006.png" crc="223046336" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_bow tarnished-crop-u59372.png" crc="380662965" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg shells-crop-u59403.png" crc="3928061151" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg-crop-u59434.png" crc="3951686269" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_elven bow tarnished-crop-u59465.png" crc="3833318750" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 4-crop-u59496.png" crc="257286737" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 6-crop-u59527.png" crc="3771323649" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_gems-crop-u59558.png" crc="416266852" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_green potion almost empty-crop-u59589.png" crc="489488471" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion almost empty-crop-u59620.png" crc="4288259815" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion full-crop-u59651.png" crc="3841455856" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_ring-crop-u59682.png" crc="3762574358" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_spices-crop-u59713.png" crc="3835013325" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_stick-crop-u59744.png" crc="4026624644" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan.jpg" crc="386946375" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_info.jpg" crc="4034170058" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_loot.jpg" crc="303724558" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing.jpg" crc="3842616610" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing_results.jpg" crc="145064382" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="local_stores.jpg" crc="410501113" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="locale_now.jpg" crc="115216925" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="loot.jpg" crc="3993646634" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan174x211.jpg" crc="4033584700" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_info174x211.jpg" crc="3788899314" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_loot174x211.jpg" crc="3988171021" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing174x211.jpg" crc="4185811335" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing_results174x211.jpg" crc="514965133" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="local_stores174x211.jpg" crc="4201327369" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="locale_now174x211.jpg" crc="3786049276" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="loot174x211.jpg" crc="3989425052" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_arrow broken206x206.png" crc="488265618" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_bow tarnished206x206.png" crc="4157790699" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg shells206x206.png" crc="4207358920" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg206x206.png" crc="4125458700" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_elven bow tarnished206x206.png" crc="4152729705" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 4206x206.png" crc="4208113352" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 6206x206.png" crc="56903534" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_gems206x206.png" crc="432906552" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_green potion almost empty206x206.png" crc="4280111677" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion almost empty206x206.png" crc="104787809" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion full206x206.png" crc="60450216" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_ring206x206.png" crc="3903422071" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_spices206x206.png" crc="504658490" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_stick206x206.png" crc="4147132386" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_arrow broken-crop-u590062.png" crc="213679027" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_bow tarnished-crop-u593722.png" crc="98795364" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg shells-crop-u594032.png" crc="467172959" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_egg-crop-u594342.png" crc="4271507163" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_elven bow tarnished-crop-u594652.png" crc="47497969" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 4-crop-u594962.png" crc="4158793395" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_fish 6-crop-u595272.png" crc="494273826" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_gems-crop-u595582.png" crc="61616757" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_green potion almost empty-crop-u595892.png" crc="4293715430" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion almost empty-crop-u596202.png" crc="95938331" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_red potion full-crop-u596512.png" crc="53909059" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_ring-crop-u596822.png" crc="4223188736" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_spices-crop-u597132.png" crc="3873185276" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="item_stick-crop-u597442.png" crc="4121833351" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan170x206.jpg" crc="230851794" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_info170x206.jpg" crc="103582149" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_loot170x206.jpg" crc="3915378095" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing170x206.jpg" crc="93568100" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing_results170x206.jpg" crc="197407255" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="local_stores170x206.jpg" crc="4245325317" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="locale_now170x206.jpg" crc="173395150" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="loot170x206.jpg" crc="4148369252" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan-crop-u60229.jpg" crc="3765549457" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_info-crop-u60726.jpg" crc="4180256356" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="caravan_loot-crop-u60757.jpg" crc="443221638" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing-crop-u60788.jpg" crc="486080672" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="fishing_results-crop-u60819.jpg" crc="279474577" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="local_stores-crop-u60850.jpg" crc="155350930" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="locale_now-crop-u60881.jpg" crc="4240802982" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
+    <file name="loot-crop-u60912.jpg" crc="159055479" seo="true" ref="thrifty-deeds">
+      <caption webpage="thrifty-deeds" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="432529069" seo="true" mt="1561134256649" redirect="true"/>
-  <file name="portfolio.html" crc="3824904187" seo="true" mt="1561134256649" redirect="true"/>
+  <file name="portfolio.html" crc="4149661516" seo="true" mt="1561139287684" redirect="true"/>
   <file name="logos.html" crc="3810067982" seo="true" mt="1561134323538" redirect="true"/>
   <file name="stonicorn.html" crc="351112262" seo="true" mt="1561134256649" redirect="true"/>
   <file name="horsegame.html" crc="4060770122" seo="true" mt="1561134256649" redirect="true"/>
@@ -1753,5 +2027,6 @@
   <file name="uiux.html" crc="4079048260" seo="true" mt="1561134256649" redirect="true"/>
   <file name="personal-work.html" crc="4064416806" seo="true" mt="1561134256649" redirect="true"/>
   <file name="storymode.html" crc="436143515" seo="true" mt="1561134256649" redirect="true"/>
-  <file name="contact.html" crc="318233524" seo="true" mt="1561134256649" redirect="true"/>
+  <file name="contact.html" crc="229081310" seo="true" mt="1561139428465" redirect="true"/>
+  <file name="thrifty-deeds.html" crc="498226535" seo="true" mt="1561139575717" redirect="true"/>
 </manifest>
